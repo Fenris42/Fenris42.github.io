@@ -30,4 +30,5 @@ public class About
 |                                             |`{`                                                    |
 |                                             |`	public string Name     = "Matt Todd";`            |
 |                                             |`	public string Location = "Vancouver, BC, Canada";`|
+|                                             |`}`                                                    |
 
