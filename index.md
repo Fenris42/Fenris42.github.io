@@ -1,4 +1,6 @@
-![Profile Pic](assets/images/profilepic.jpg) # Matt Todd's GitHub Page
+![Profile Pic](assets/images/profilepic.jpg#profilepic) 
+# Matt Todd's GitHub Page
+
 ```c#
 public class About
 {
