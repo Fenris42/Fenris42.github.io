@@ -1,4 +1,3 @@
-<!--
 <table>
 	<tr>
 		<td> <h2>Profile Pic</h2> </td>
@@ -21,14 +20,4 @@ public class About
 		</td>
 	</tr>
 </table>
--->
-
-| ##Profile Pic                               | ##About                                              |
-|---------------------------------------------|------------------------------------------------------|
-| ![ProfilePic](assets/images/profilepic.jpg) |`c#`                                                  |
-|                                             |`public class About`                                  |
-|                                             |`{`                                                   |
-|                                             |`   public string Name     = "Matt Todd";`            |
-|                                             |`   public string Location = "Vancouver, BC, Canada";`|
-|                                             |`}`                                                   |
 
