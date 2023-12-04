@@ -6,13 +6,12 @@
 	<tr>
 		<td> <img src="assets/images/profilepic.jpg"> </td>
 		<td>
-		
 			<pre lang="csharp">
-public class About
-{
-	public string Name     = "Matt Todd";
-	public string Location = "Vancouver, BC, Canada";
-}
+			public class About
+			{
+				public string Name     = "Matt Todd";
+				public string Location = "Vancouver, BC, Canada";
+			}		
 			</pre>
 		
 		<h2>Links</h2>
