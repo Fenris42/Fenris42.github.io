@@ -1,4 +1,4 @@
-![Profile Pic](assets/images/profilepic.jpg#profilepic) 
+![Profile Pic](assets/images/profilepic.jpg) 
 # Matt Todd's GitHub Page
 
 ```c#
