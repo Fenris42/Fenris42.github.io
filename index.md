@@ -13,7 +13,7 @@ public class About
    public string Name       = "Matt Todd";
    public string Location   = "Vancouver, BC, Canada";
    public bool IsProgrammer = true;
-   public List&lt;string&gt; Languages = new List&lt;string&gt;(){"C#", "Javascript", "Powershell"};
+   public string[] Languages = {"C#", "Javascript", "Powershell"};
 }
 </code>
 </pre>
