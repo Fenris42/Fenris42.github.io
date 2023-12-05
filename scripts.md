@@ -1,6 +1,6 @@
 # Scripts
 
-## [Delete Meta Files](https://github.com/Fenris42/Delete_Meta_Files)
+## [Delete Meta Files](https://github.com/Fenris42/Delete_Meta_Files){:target="_blank"}
 * Language: Powershell
 
 ![Delete_Meta_Files](assets/images/Delete_Meta_Files.PNG)

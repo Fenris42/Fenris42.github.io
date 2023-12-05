@@ -2,7 +2,7 @@
 
 <br>
 
-# [Timerborn](https://store.steampowered.com/app/1062090/Timberborn/)
+# [Timerborn](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
 - A game about a post human world where beavers are now the domenant species
 - The player builds a town with farms, industry, homes and entertainments in the goal to have a thriving community with a high well being score
 - Typical game loop is alternating seasons of temperate where water flows and everything is nice then flips to either a drought or a bad tide
@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## [Red Tide Islands](https://mod.io/g/timberborn/m/red-tide-islands)
+## [Red Tide Islands](https://mod.io/g/timberborn/m/red-tide-islands){:target="_blank"}
 ![Red_Tide_Island](assets/images/Red_Tide_Island.PNG)
 
 <br>

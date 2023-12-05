@@ -27,7 +27,7 @@ A top down dungeon crawler RPG
 <br>
 <br>
 
-## [Project Sebastion (Public)](https://github.com/Fenris42/Project_Sebastion)
+## [Project Sebastion (Public)](https://github.com/Fenris42/Project_Sebastion){:target="_blank"}
 * Status: Shelved
 
 ![Sebastion](assets/images/project_sebastion.png)
@@ -38,7 +38,7 @@ A lane based protect the tower game
 <br>
 <br>
 
-## [2D Game Experiment (Public)](https://github.com/Fenris42/2D_Platformer_Experiment)
+## [2D Game Experiment (Public)](https://github.com/Fenris42/2D_Platformer_Experiment){:target="_blank"}
 * Status: Complete
 
 ![2D_Experiment](assets/images/2d_experiment.png)
@@ -47,7 +47,7 @@ My first indipendent game where I was experimenting with implementing a variety 
 <br>
 <br>
 
-## [Flappy Borb (Public)](https://github.com/Fenris42/Flappy_Borb)
+## [Flappy Borb (Public)](https://github.com/Fenris42/Flappy_Borb){:target="_blank"}
 * Status: Complete
 
 ![FlappyBorb](assets/images/flappy_borb.png)
