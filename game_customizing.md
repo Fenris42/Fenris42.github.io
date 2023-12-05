@@ -65,3 +65,6 @@
 		- Logistics setup will be needed for trade between the islands
 		- Water toxicity is quite high and solutions need to be implemented to protect anyting on a coast line
 
+<br>
+<br>
+<br>
