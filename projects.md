@@ -17,7 +17,7 @@ A 2D asteroid mining game
 <br>
 <br>
 
-## Project Forest (Private)
+## [Project Forest (Public)](https://github.com/Fenris42/Project_Forest)
 * Status: Shelved
 
 ![Forest](assets/images/project_forest.png)
