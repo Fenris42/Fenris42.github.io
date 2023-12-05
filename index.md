@@ -1,7 +1,7 @@
 <table>
 <tr>
-<td> <h2>Profile Pic</h2> </td>
-<td> <h2>About</h2> </td>
+<td> <h1>Profile Pic</h1> </td>
+<td> <h1>About</h1> </td>
 </tr>
 <tr>
 <td> <img src="assets/images/profilepic.jpg"> </td>
@@ -21,18 +21,17 @@ public class About_Me
 </tr>
 </table>
 
-## Links
+# Links
 
 <div class="inline">
 	<a href="https://github.com/Fenris42" class="btn btn-github"><span class="icon"></span>GitHub</a>
 	<a href="https://www.linkedin.com/in/matt-todd/" class="btn btn-linkedin"><span class="icon"></span>Linkedin</a>
 </div>
 <br>
-<br>
 
 # Bio
 IT Systems Engineer by day and Game Developer by night. I have a love of games and technology specializing in SaaS products, automation and programming. Recently started a new adventure in game development.
-<br>
+
 <br>
 
 # Project Directory:
