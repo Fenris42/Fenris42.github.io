@@ -4,18 +4,21 @@
 <br>
 <br>
 
-## [Timerborn](https://store.steampowered.com/app/1062090/Timberborn/)
+# [Timerborn](https://store.steampowered.com/app/1062090/Timberborn/)
 - A game about a post human world where beavers are now the domenant species
 - The player builds a town with farms, industry, homes and entertainments in the goal to have a thriving community with a high well being score
 - Typical game loop is alternating seasons of temperate where water flows and everything is nice then flips to either a drought or a bad tide
 	- In a drought water stops flowing from sources and starts receading
 	- In a bad tide water sources start pumping bad water (toxic waste) which kills plants and makes your beavers sick on contact
 
-### [Red Tide Islands](https://mod.io/g/timberborn/m/red-tide-islands)
-[Red_Tide_Island](assets/images/Red_Tide_Island.PNG)
+<br>
+<br>
+
+## [Red Tide Islands](https://mod.io/g/timberborn/m/red-tide-islands)
+![Red_Tide_Island](assets/images/Red_Tide_Island.PNG)
 - A custom map I made to experiment with level design after being frustrated with the built in and 3rd party maps trying to find a map I wanted to play on.
 
-#### The Challenge
+### The Challenge
 - This is an opposite approach map which flips the [typical scenerio](https://timberborn.fandom.com/wiki/Maps) upside down
  - Typical maps are land locked with a shallow river running through it to provide horsepower for water wheels and water dries up during a drought
  - This map, water is abundant but current is scarce
@@ -23,7 +26,7 @@
 	- However, when a bad tide season comes the map is now flooded with bad water that tends to stick around after the season inceasing toxicity around you
 	- This is a play on to much of a good thing and water water everywhere but not a drop to drink
 
-#### Map Layout
+### Map Layout
 - 1) Your starting area
 	- 2) A deep resevoir thats easy to damn
 		- However, creeping bad water (11) from island 10 will start creeping towards the intake and toxicity will start or rise. A challenge for the player to overcome.
@@ -43,7 +46,7 @@
 	- Mid game opportunity for scrap metal harvesting from ruins
 	- A underground entrance for a late game scrap metal mine
 	
-#### Design Choices
+### Design Choices
 - A challenging map different that its competitors on 3rd party sites
 - Water is unusually ubundant but becomes a primary antagonist in the maps progression
 - Progression:
