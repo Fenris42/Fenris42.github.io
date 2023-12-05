@@ -26,7 +26,7 @@ public class About
 <br>
 <br>
 
-# Projects
+# Unity Projects
 * Disclaimer: Games are not for selling or distribution. All artwork are placeholders as I am not an artist and just experimenting with game development   
  
 <br>
@@ -51,6 +51,16 @@ A 2D asteroid mining game
 ![Forest](assets/images/project_forest.png)
 A top down dungeon crawler RPG
 * Implemented mob AI for multiple class configurations, player tracking and targeting solutions
- 
+
+<br>
+<br>
+
+## [Projecct Sebastion (Public)](https://github.com/Fenris42/Project_Sebastion)
+* Status: Shelved
+
+![Sebastion](assets/images/project_sebastion.png)
+A lane based protect the tower game
+* Wave based enemies
+* Resource drop on mob death
 
 
