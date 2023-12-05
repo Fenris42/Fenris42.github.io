@@ -23,6 +23,11 @@ public class About
 
 <a href="https://github.com/Fenris42" class="btn btn-github"><span class="icon"></span>GitHub</a> <a href="https://www.linkedin.com/in/matt-todd/" class="btn btn-linkedin"><span class="icon"></span>Linkedin</a> 
 
+# Projects
+
+## Project Rock Hopper (Private)
+![RockHopper](assets/images/project_rock_hopper.png)
+A 2D asteroid mining game
 
 
  
