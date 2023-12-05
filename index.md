@@ -19,15 +19,11 @@ public class About
 </tr>
 </table>
 
-<table>
-<tr style="width: 50px">
-<td> <h2>Links</h2> </td>
-</tr>
-<tr style="width: 50px">
-<td> <a href="https://github.com/Fenris42" class="btn btn-github"><span class="icon"></span>GitHub</a> </td>
-<td> <a href="https://www.linkedin.com/in/matt-todd/" class="btn btn-linkedin"><span class="icon"></span>Linkedin</a> </td>
-</tr>
-</table>
+##Links
+
+* a href="https://github.com/Fenris42" class="btn btn-github"><span class="icon"></span>GitHub</a>
+* <a href="https://www.linkedin.com/in/matt-todd/" class="btn btn-linkedin"><span class="icon"></span>Linkedin</a> 
+
 
  
 
