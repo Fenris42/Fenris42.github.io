@@ -21,15 +21,15 @@ public class About
 
 ## Links
 
-<a href="https://github.com/Fenris42" class="btn btn-github"><span class="icon"></span>GitHub</a> <a href="https://www.linkedin.com/in/matt-todd/" class="btn btn-linkedin"><span class="icon"></span>Linkedin</a> 
-</br>
-</br>
-
+<a href="https://github.com/Fenris42" class="btn btn-github"><span class="icon"></span>GitHub</a> <a href="https://www.linkedin.com/in/matt-todd/" class="btn btn-linkedin"><span class="icon"></span>Linkedin</a>      
+<br>
+<br>
 # Projects
-* Disclaimer: Games are not for selling or distribution. All artwork are placeholders as I am not an artist and just experimenting with game development  
-
+* Disclaimer: Games are not for selling or distribution. All artwork are placeholders as I am not an artist and just experimenting with game development    
+<br>
+<br>
 ## Project Rock Hopper (Private)
-* Status: Active  
+* Status: Active
 
 ![RockHopper](assets/images/project_rock_hopper.png)
 A 2D asteroid mining game
@@ -37,7 +37,8 @@ A 2D asteroid mining game
 * Get as much loot as possible on your ventures out in space
 * Dont run out of life support (Health, Oxygen, Energy, Fuel)
 * You feel like you might not be alone
-
+<br>
+<br>
 ## Project Forest (Private)
 * Status: Shelved
 
