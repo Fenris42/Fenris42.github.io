@@ -26,5 +26,11 @@ public class About
 <br>
 <br>
 
+# Bio
+
+<br>
+<br>
+
 # Project Directory:
 * [Unity Projects](projects.md)
+* [Game Customizing](game_customizing.md)
