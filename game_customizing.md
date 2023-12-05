@@ -1,5 +1,4 @@
 # Custom Game Maps
-* 
 
 <br>
 <br>
@@ -18,13 +17,7 @@
 ![Red_Tide_Island](assets/images/Red_Tide_Island.PNG)
 - A custom map I made to experiment with level design after being frustrated with the built in and 3rd party maps trying to find a map I wanted to play on.
 
-### The Challenge
-- This is an opposite approach map which flips the [typical scenerio](https://timberborn.fandom.com/wiki/Maps) upside down
- - Typical maps are land locked with a shallow river running through it to provide horsepower for water wheels and water dries up during a drought
- - This map, water is abundant but current is scarce
-	- Water drops a bit but stays around during a drought
-	- However, when a bad tide season comes the map is now flooded with bad water that tends to stick around after the season inceasing toxicity around you
-	- This is a play on to much of a good thing and water water everywhere but not a drop to drink
+<br>
 
 ### Map Layout
 - 1) Your starting area
@@ -45,7 +38,19 @@
 	- Bad water source to contain and harvest
 	- Mid game opportunity for scrap metal harvesting from ruins
 	- A underground entrance for a late game scrap metal mine
-	
+
+<br>
+
+### The Challenge
+- This is an opposite approach map which flips the [typical scenerio](https://timberborn.fandom.com/wiki/Maps) upside down
+ - Typical maps are land locked with a shallow river running through it to provide horsepower for water wheels and water dries up during a drought
+ - This map, water is abundant but current is scarce
+	- Water drops a bit but stays around during a drought
+	- However, when a bad tide season comes the map is now flooded with bad water that tends to stick around after the season inceasing toxicity around you
+	- This is a play on to much of a good thing and water water everywhere but not a drop to drink
+
+<br>
+
 ### Design Choices
 - A challenging map different that its competitors on 3rd party sites
 - Water is unusually ubundant but becomes a primary antagonist in the maps progression
