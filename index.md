@@ -23,9 +23,9 @@ public class About_Me
 
 ## Links
 
-<div id="outer">
-	<div class="inner"><a href="https://github.com/Fenris42" class="btn btn-github"><span class="icon"></span>GitHub</a></div>
-	<div class="inner"><a href="https://www.linkedin.com/in/matt-todd/" class="btn btn-linkedin"><span class="icon"></span>Linkedin</a></div>
+<div>
+	<div class="inline"><a href="https://github.com/Fenris42" class="btn btn-github"><span class="icon"></span>GitHub</a></div>
+	<div class="inline"><a href="https://www.linkedin.com/in/matt-todd/" class="btn btn-linkedin"><span class="icon"></span>Linkedin</a></div>
 </div>
 <br>
 <br>
