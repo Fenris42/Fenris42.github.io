@@ -1,7 +1,6 @@
 # Custom Game Maps
 
 <br>
-<br>
 
 # [Timerborn](https://store.steampowered.com/app/1062090/Timberborn/)
 - A game about a post human world where beavers are now the domenant species
@@ -15,7 +14,6 @@
 
 ## [Red Tide Islands](https://mod.io/g/timberborn/m/red-tide-islands)
 ![Red_Tide_Island](assets/images/Red_Tide_Island.PNG)
-- A custom map I made to experiment with level design after being frustrated with the built in and 3rd party maps trying to find a map I wanted to play on.
 
 <br>
 

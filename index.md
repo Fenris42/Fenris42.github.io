@@ -10,8 +10,10 @@
 <code>
 public class About
 {
-   public string Name     = "Matt Todd";
-   public string Location = "Vancouver, BC, Canada";
+   public string Name       = "Matt Todd";
+   public string Location   = "Vancouver, BC, Canada";
+   public bool IsProgrammer = true;
+   public List<string> Languages = new List<string>(){"C#", "Javascript", "Powershell"};
 }
 </code>
 </pre>
@@ -27,13 +29,14 @@ public class About
 <br>
 
 # Bio
-
+IT Systems Engineer by day and Game Developer by night. I have a love of games and technology specializing in SaaS products, automation and programming. Recently started a new adventure in game development.
 <br>
 <br>
 
 # Project Directory:
 * [Unity Projects](projects.md)
 * [Game Customizing](game_customizing.md)
+* [Scripts](scripts.md)
 
 <br>
 <br>
