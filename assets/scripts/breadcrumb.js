@@ -13,4 +13,4 @@ text = document.createTextNode(" / " + page);
 breadcrumb.appendChild(text); 
 
 //display breadcrumb
-document.body.appendChild(a); 
+document.body.appendChild(breadcrumb); 
