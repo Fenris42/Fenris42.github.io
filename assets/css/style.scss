@@ -18,7 +18,7 @@ ul.nav{
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: rgba(255, 255, 255, 0.8);
+	background-color: #666;
 }
 li.nav{
 	display: inline;
@@ -29,8 +29,8 @@ a.nav{
 	display: block;
 	padding: 8px;
 }
-li a:hover{
-	background: #666;
+a:hover.nav{
+	background: #b5e853;
 }
 header{
 	position: sticky;
