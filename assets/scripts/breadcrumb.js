@@ -13,9 +13,14 @@ var page = "";
 path = window.location.pathname;
 page = path.split("/").pop();
 page = page.replace(".html","");
-page = " / " + page
-text = document.createTextNode(page);
-breadcrumb.appendChild(text); 
+
+//if not the home page then append page
+if (page != ""){
+	page = " / " + page
+	text = document.createTextNode(page);
+	breadcrumb.appendChild(text); 
+}
+
 
 //display breadcrumb
-document.header.appendChild(breadcrumb); 
+document.head.appendChild(breadcrumb); 
