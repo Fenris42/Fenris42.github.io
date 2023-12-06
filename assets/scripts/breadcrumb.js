@@ -13,6 +13,7 @@ var page = "";
 path = window.location.pathname;
 page = path.split("/").pop();
 page = page.replace(".html","");
+page = page.replkace("_", " ");
 
 //if not the home page then append page
 if (page != ""){
