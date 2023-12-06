@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 .btn-linkedin .icon {
-  opacity: 0.6;
-  background: url("../images/linkedin.png") 0 0 no-repeat;
+	opacity: 0.6;
+	background: url("../images/linkedin.png") 0 0 no-repeat;
 }
 .inline{
 	display: inline-block;
@@ -12,4 +12,29 @@
 .breadcrumb{
 	white-space: pre;
 	display: inline-block;
+}
+ul.nav{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #dddddd;
+}
+li.nav{
+	display: inline;
+	float: left;
+	border-right: 1px solid #bbb;
+}
+a.nav{
+	display: block;
+	padding: 8px;
+	background-color: #dddddd;
+}
+li a:hover{
+	background-color: #04AA6D;
+}
+header{
+	position: fixed;
+	top: 0;
+	width: 100%;
 }
