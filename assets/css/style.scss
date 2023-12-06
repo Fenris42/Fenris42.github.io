@@ -26,17 +26,18 @@ ul.nav{
 li.nav{
 	display: inline;
 	float: left;
-	border-right: 1px solid #bbb;
+	border-right: 1px solid black;
 }
 a.nav{
 	display: block;
 	padding: 8px;
 	font-size: 18px;
 	text-decoration: none;
-	color: #666;
+	color: #b5e853;
 }
 a:hover.nav{
 	background: #b5e853;
+	color: #666;
 }
 header{
 	position: sticky;
