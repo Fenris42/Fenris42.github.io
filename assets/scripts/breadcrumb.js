@@ -23,4 +23,4 @@ if (page != ""){
 
 
 //display breadcrumb
-document.head.appendChild(breadcrumb); 
+document.getElementById('breadcrumb').appendChild(breadcrumb); 
