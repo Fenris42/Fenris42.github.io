@@ -7,6 +7,9 @@ page = path.split("/").pop();
 page = page.replace(".html","");
 page = page.replace("_", " ");
 
-//set breadcrumb to current page
-var element = document.getElementById("currentPage");
-element.innerText = " / " + page;
+//set breadcrumb to current page if not empty
+if (page != ""){
+	var element = document.getElementById("currentPage");
+	element.innerText = " / " + page;
+}
+
