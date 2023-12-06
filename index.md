@@ -33,12 +33,6 @@ public class About_Me
 IT Systems Engineer by day and Game Developer by night. I have a love of games and technology specializing in SaaS products, automation and programming. Recently started a new adventure in game development.
 
 <br>
-
-# Project Directory:
-* [Unity Projects](Unity_Projects.md)
-* [Game Customizing](Game_Modding.md)
-* [Scripts](Scripts.md)
-
 <br>
 <br>
 <br>
