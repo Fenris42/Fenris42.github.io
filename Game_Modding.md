@@ -1,7 +1,5 @@
 # Custom Game Maps
 
-<br>
-
 # [Timerborn](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
 - A game about a post human world where beavers are now the domenant species
 - The player builds a town with farms, industry, homes and entertainments in the goal to have a thriving community with a high well being score
@@ -9,7 +7,6 @@
 	- In a drought water stops flowing from sources and starts receading
 	- In a bad tide water sources start pumping bad water (toxic waste) which kills plants and makes your beavers sick on contact
 
-<br>
 <br>
 
 ## [Red Tide Islands](https://mod.io/g/timberborn/m/red-tide-islands){:target="_blank"}
@@ -66,3 +63,6 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+
