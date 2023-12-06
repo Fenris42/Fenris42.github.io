@@ -55,9 +55,3 @@ My very first Unity project and attempt at game developement
 * Followed tutorial [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORBmM?si=leTh6QheRjBX62GI)
 * Continued experimenting after tutorial with a a life system and 3 lives
 
-<br>
-<br>
-<br>
-<br>
-<br>
-

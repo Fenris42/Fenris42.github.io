@@ -31,9 +31,3 @@ public class About_Me
 
 # Bio
 IT Systems Engineer by day and Game Developer by night. I have a love of games and technology specializing in SaaS products, automation and programming. Recently started a new adventure in game development.
-
-<br>
-<br>
-<br>
-<br>
-<br>
