@@ -16,11 +16,11 @@ page = page.replace(".html","");
 
 //if not the home page then append page
 if (page != ""){
-	page = " / " + page
+	page = " / " + page;
 	text = document.createTextNode(page);
 	breadcrumb.appendChild(text); 
 }
 
-
 //display breadcrumb
-document.getElementById("breadcrumb").appendChild(breadcrumb); 
+var element = document.getElementById("breadcrumb");
+element.appendChild(breadcrumb); 
