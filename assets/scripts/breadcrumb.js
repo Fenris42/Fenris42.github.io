@@ -7,11 +7,15 @@ breadcrumb.appendChild(text);
 breadcrumb.href = "https://fenris42.github.io/"; 
 
 //append current page to breadcrumb
-var path = window.location.pathname;
-var page = path.split("/").pop();
+var path = "";
+var page = "";
+
+path = window.location.pathname;
+page = path.split("/").pop();
+page = page.replace(".html","");
 page = " / " + page
 text = document.createTextNode(page);
 breadcrumb.appendChild(text); 
 
 //display breadcrumb
-document.body.appendChild(breadcrumb); 
+document.header.appendChild(breadcrumb); 
