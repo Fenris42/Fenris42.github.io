@@ -36,7 +36,7 @@ IT Systems Engineer by day and Game Developer by night. I have a love of games a
 
 # Project Directory:
 * [Unity Projects](Unity_Projects.md)
-* [Game Customizing](Game_Customizing.md)
+* [Game Customizing](Game_Modding.md)
 * [Scripts](Scripts.md)
 
 <br>
