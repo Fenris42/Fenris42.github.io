@@ -13,6 +13,7 @@ public class About_Me
    public string Name        = "Matt Todd";
    public string Location    = "Vancouver, BC, Canada";
    public bool IsProgrammer  = true;
+   public bool IsWebDesigner = false;
    public string[] Languages = {"C#", "Javascript", "Powershell"};
 }
 </code>
