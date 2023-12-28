@@ -5,38 +5,44 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-	
-	<!-- Fav Icon -->
-	<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
-	
+
+    <!-- Fav Icon -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
+
     {% include head-custom.html %}
-	{% seo %}
+    {% seo %}
   </head>
 
   <body>
     <header>
-      <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.description | default: site.github.project_tagline }}</h1>
-		  <h2>{{ site.title | default: site.github.repository_name }}</h2>
-        </a>
-		
-		<!-- Nav Bar -->
-		<ul class="nav">
-			<li class="nav"><a class="nav" href="https://fenris42.github.io">About</a></li>
-			<li class="nav"><a class="nav" href="Unity_Projects.html">Unity Projects</a></li>
-			<li class="nav"><a class="nav" href="Game_Modding.html">Game Modding</a></li>
-			<li class="nav"><a class="nav" href="Scripts.html">Scripts</a></li>
-		</ul>
-		
-		<!-- Breadcrumb -->
-		<div style="padding-top: 10px;">
-			<a style="padding-left: 10px;" href="https://fenris42.github.io">Home</a><p id="currentPage" class="breadcrumb"></p>
-			<script src="assets/scripts/breadcrumb.js"></script>
-		</div>
-		
-		
-      </div>
+
+        <div class="identity">
+
+          <h1>
+            <a href="{{ '/' | relative_url }}">
+              {{ site.description | default: site.github.project_tagline }}
+            </a>
+          </h1>
+
+          <!-- Links -->
+          <nav class="nav-links">
+            <ul>
+              <li><a href="https://www.linkedin.com/in/matt-todd/" class="btn btn-linkedin" target="_blank"><span class="icon"></span><span class="link-text">Linkedin</a></li>
+              <li><a href="https://github.com/Fenris42" class="btn btn-github" target="_blank"><span class="icon"></span><span class="link-text">GitHub</span></a></li>
+            </ul>
+          </nav>
+
+        </div>
+
+    		<!-- Nav Bar -->
+        <nav class="nav-main">
+      		<ul>
+      			<li><a href="/">Home</a></li>
+      			<li><a href="Unity_Projects.html">Unity Projects</a></li>
+      			<li><a href="Game_Modding.html">Game Modding</a></li>
+      			<li><a href="Scripts.html">Scripts</a></li>
+      		</ul>
+        </nav>
     </header>
 
     <div class="container">
@@ -44,5 +50,8 @@
         {{ content }}
       </section>
     </div>
+
+    <script src="assets/scripts/nav.js"></script>
+
   </body>
 </html>

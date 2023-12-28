@@ -1,7 +1,14 @@
+---
+layout: default
+title: Scripts
+---
+
 # Scripts
 
-## [Delete Meta Files](https://github.com/Fenris42/Delete_Meta_Files){:target="_blank"}
-* Language: Powershell
+## Delete Meta Files
+[![Download](assets/images/icon-download.svg){:class='icon icon-download'}](https://github.com/Fenris42/Delete_Meta_Files){:target="_blank"}
+[Github Repository](https://github.com/Fenris42/Delete_Meta_Files){:target="_blank"}  
+**Language:** Powershell
 
 ![Delete_Meta_Files](assets/images/Delete_Meta_Files.PNG)
 
