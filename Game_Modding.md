@@ -1,18 +1,27 @@
-# Custom Game Maps
+---
+layout: default
+title: Custom Game Maps
+---
 
-# [Timerborn](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
+# Game Modding
+
+## Timerborn
+[![Download](assets/images/icon-download.svg){:class='icon icon-download'}](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
+[Steam Store](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
+
 - A game about a post human world where beavers are now the domenant species
 - The player builds a town with farms, industry, homes and entertainments in the goal to have a thriving community with a high well being score
 - Typical game loop is alternating seasons of temperate where water flows and everything is nice then flips to either a drought or a bad tide
 	- In a drought water stops flowing from sources and starts receading
 	- In a bad tide water sources start pumping bad water (toxic waste) which kills plants and makes your beavers sick on contact
 
-<br>
+---
 
-## [Red Tide Islands](https://mod.io/g/timberborn/m/red-tide-islands){:target="_blank"}
+## Red Tide Islands
+[![Download](assets/images/icon-download.svg){:class='icon icon-download'}](https://mod.io/g/timberborn/m/red-tide-islands){:target="_blank"}
+[Mod.io Download](https://mod.io/g/timberborn/m/red-tide-islands){:target="_blank"}
+
 ![Red_Tide_Island](assets/images/Red_Tide_Island.PNG)
-
-<br>
 
 ### Map Layout
 - 1) Your starting area
@@ -34,8 +43,6 @@
 	- Mid game opportunity for scrap metal harvesting from ruins
 	- A underground entrance for a late game scrap metal mine
 
-<br>
-
 ### The Challenge
 - This is an opposite approach map which flips the [typical scenerio](https://timberborn.fandom.com/wiki/Maps) upside down
  - Typical maps are land locked with a shallow river running through it to provide horsepower for water wheels and water dries up during a drought
@@ -44,18 +51,16 @@
 	- However, when a bad tide season comes the map is now flooded with bad water that tends to stick around after the season inceasing toxicity around you
 	- This is a play on to much of a good thing and water water everywhere but not a drop to drink
 
-<br>
-
 ### Design Choices
 - A challenging map different that its competitors on 3rd party sites
 - Water is unusually ubundant but becomes a primary antagonist in the maps progression
 - Progression:
-	- Early Game: 
+	- Early Game:
 		- Abundant resources and well telegraphed build spots
-	- Mid Game: 
+	- Mid Game:
 		- Insentivising islands nearby to expand to in range of your central district but pushing the limits
 		- Playes will experience their first bad tide and realise this map isnt as easy as one thought and a whole new problem is revealed when the bad water doesnt disipate easily
-	- Late Game: 
+	- Late Game:
 		- Multiple districts are required for shortage of land and high travel distances
 		- Logistics setup will be needed for trade between the islands
 		- Water toxicity is quite high and solutions need to be implemented to protect anyting on a coast line
