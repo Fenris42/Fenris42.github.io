@@ -48,9 +48,11 @@ A 2D side scrolling asteroid mining game. Mine resources while balancing life su
 
 **Status:** Shelved  
 
+
 **Description:**
 
 A top down dungeon crawler RPG
+
 
 **Goals:**
 
@@ -58,10 +60,10 @@ A top down dungeon crawler RPG
 
 ![Check](assets/images/icons/check.png){:class="icon"} Movement and attacks in 4 directions
 
-![Check](assets/images/icons/check.png){:class="icon"} Mob AI that uses a single configurable template
-* Class selection dropdown from editor with configurable weights to attacks
+![Check](assets/images/icons/check.png){:class="icon"} Mob AI that uses a single configurable template for class selection and attacks
 
 ![Check](assets/images/icons/check.png){:class="icon"} Mob AI that tracks and reacts to players position and has collision avoidance
+
 
 **Retrospective:**
 
