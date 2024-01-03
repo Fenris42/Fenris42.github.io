@@ -10,9 +10,12 @@ title: Unity Projects
 </div>
 
 ## Project Rock Hopper
+
+![Download] Private Github Repository
+![RockHopper](assets/images/project_rock_hopper.png)
+
 **Status:** Active
 
-![RockHopper](assets/images/project_rock_hopper.png)
 A 2D asteroid mining game
 * Procedural level generation
 * Get as much loot as possible on your ventures out in space
