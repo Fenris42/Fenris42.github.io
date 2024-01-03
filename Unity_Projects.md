@@ -67,9 +67,9 @@ A top down dungeon crawler RPG
 
 - Had a hard time finding the fun and direction of the game
 - Top down added more directions of travel and more freedom of design, however it increased programming complexity more than initially thought
-	- Asset store had limited selection of art for this camera angle
-	- Assets required more sprites and animations to cover front and back directions
-	- Camera angle made perspectives difficult to manage such as doors on the left, right and bottom of screen not looking right
+- Asset store had limited selection of art for this camera angle
+- Assets required more sprites and animations to cover front and back directions
+- Camera angle made perspectives difficult to manage such as doors on the left, right and bottom of screen not looking right
 
 ---
 
