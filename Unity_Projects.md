@@ -11,7 +11,7 @@ title: Unity Projects
 
 ## Project Rock Hopper
 
-![Download] Private Github Repository
+![Download](assets/images/icon-download.svg) Private Github Repository
 ![RockHopper](assets/images/project_rock_hopper.png)
 
 **Status:** Active
