@@ -16,11 +16,15 @@ title: Unity Projects
 
 **Status:** Active
 
-A 2D asteroid mining game
-* Procedural level generation
-* Get as much loot as possible on your ventures out in space
-* Dont run out of life support (Health, Oxygen, Energy, Fuel)
-* You feel like you might not be alone
+**Description:** A 2D side scrolling asteroid mining game. Mine resources while managing your life support resources. Cash in your loot and upgrade your gear and ship to go to further asteroids and dig deeper. Watch out for pirates on your adventure!
+
+**Goals:**
+![Check](assets/images/icons/check.png) Procedural level generation
+![WIP](assets/images/icons/wip.png) Take off and land on asteroid from your parent ship
+* Asteroid selection from map
+* A space station hub for your to upgrade your gear, upgrade your ship, sell loot and get quests from
+* Add pirate enemies to encounter on your travels
+
 
 ---
 
