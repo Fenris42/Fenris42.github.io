@@ -6,7 +6,7 @@ title: Unity Projects
 # Unity Projects
 
 <div class="callout">
-  <strong>Disclaimer:</strong> Games are not for selling or distribution. All artwork are placeholders as I am not an artist and just experimenting with game development   
+  <strong>Disclaimer:</strong> Games are not for sale or distribution. All artwork depicted are placeholders as I am not an artist and just experimenting with game development   
 </div>
 
 ---
