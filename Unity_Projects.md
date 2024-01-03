@@ -26,8 +26,6 @@ A 2D side scrolling asteroid mining game. Mine resources while balancing life su
 **Goals:**
 
 ![Check](assets/images/icons/check.png){:class="icon"} Procedural level generation
-
-	- Implemented configurable level size and resource parameters for auto level generation
 - Take off and land on asteroid from your parent ship
 - Asteroid selection from map screen
 - A space station hub for you to upgrade your gear, upgrade your ship, sell loot and get quests from
