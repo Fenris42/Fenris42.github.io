@@ -6,7 +6,7 @@ title: Custom Game Maps
 # Game Modding
 
 ## Timerborn
-[![Download](assets/images/icon-download.svg){:class='icon icon-download'}](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
 [Steam Store](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
 
 - A game about a post human world where beavers are now the domenant species
@@ -18,10 +18,10 @@ title: Custom Game Maps
 ---
 
 ## Red Tide Islands
-[![Download](assets/images/icon-download.svg){:class='icon icon-download'}](https://mod.io/g/timberborn/m/red-tide-islands){:target="_blank"}
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://mod.io/g/timberborn/m/red-tide-islands){:target="_blank"}
 [Mod.io Download](https://mod.io/g/timberborn/m/red-tide-islands){:target="_blank"}
 
-![Red_Tide_Island](assets/images/Red_Tide_Island.PNG)
+![Red_Tide_Island](assets/images/screenshots/Red_Tide_Island.PNG)
 
 ### Map Layout
 - 1) Your starting area

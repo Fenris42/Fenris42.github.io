@@ -10,9 +10,9 @@ title: Unity Projects
 </div>
 
 ## Project Rock Hopper
-![Download](assets/images/download.png){:class='icon icon-download'} Private Github Repository
+![Download](assets/images/icons/download.png){:class='icon icon-download'} Private Github Repository
 
-![RockHopper](assets/images/project_rock_hopper.png)
+![RockHopper](assets/images/screenshots/project_rock_hopper.png)
 
 **Status:** Active
 
@@ -26,10 +26,10 @@ A 2D asteroid mining game
 
 ## Project Forest
 **Status:** Shelved  
-[![Download](assets/images/icon-download.svg){:class='icon icon-download'}](https://github.com/Fenris42/Project_Forest){:target="_blank"}
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Project_Forest){:target="_blank"}
 [Github Repository](https://github.com/Fenris42/Project_Forest){:target="_blank"}
 
-![Forest](assets/images/project_forest.png)
+![Forest](assets/images/screenshots/project_forest.png)
 A top down dungeon crawler RPG
 * Implemented mob AI for multiple class configurations, player tracking and targeting solutions
 
@@ -37,10 +37,10 @@ A top down dungeon crawler RPG
 
 ## Project Sebastion
 **Status:** Shelved  
-[![Download](assets/images/icon-download.svg){:class='icon icon-download'}](https://github.com/Fenris42/Project_Sebastion){:target="_blank"}
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Project_Sebastion){:target="_blank"}
 [Github Repository](https://github.com/Fenris42/Project_Sebastion){:target="_blank"}
 
-![Sebastion](assets/images/project_sebastion.png)
+![Sebastion](assets/images/screenshots/project_sebastion.png)
 A lane based protect the tower game
 * Wave based enemies
 * Resource drop on mob death
@@ -49,20 +49,20 @@ A lane based protect the tower game
 
 ## 2D Game Experiment
 **Status:** Complete  
-[![Download](assets/images/icon-download.svg){:class='icon icon-download'}](https://github.com/Fenris42/2D_Platformer_Experiment){:target="_blank"}
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/2D_Platformer_Experiment){:target="_blank"}
 [Github Repository](https://github.com/Fenris42/2D_Platformer_Experiment){:target="_blank"}
 
-![2D_Experiment](assets/images/2d_experiment.png)
+![2D_Experiment](assets/images/screenshots/2d_experiment.png)
 My first indipendent game where I was experimenting with implementing a variety of common game systems in preparation to start a real attempt at making a game.
 
 ---
 
 ## Flappy Borb
 **Status:** Complete  
-[![Download](assets/images/icon-download.svg){:class='icon icon-download'}](https://github.com/Fenris42/Flappy_Borb){:target="_blank"}
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Flappy_Borb){:target="_blank"}
 [Github Repository](https://github.com/Fenris42/Flappy_Borb){:target="_blank"}
 
-![FlappyBorb](assets/images/flappy_borb.png)
+![FlappyBorb](assets/images/screenshots/flappy_borb.png)
 My very first Unity project and attempt at game developement
 * Followed tutorial [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORBmM?si=leTh6QheRjBX62GI)
 * Continued experimenting after tutorial with a life system and 3 lives
