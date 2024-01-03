@@ -60,7 +60,6 @@ A top down dungeon crawler RPG
 
 ![Check](assets/images/icons/check.png){:class="icon"} Mob AI that uses a single configurable template
 * Class selection dropdown from editor with configurable weights to attacks
-
 ![Check](assets/images/icons/check.png){:class="icon"} Mob AI that tracks and reacts to players position and has collision avoidance
 
 **Retrospective:**
