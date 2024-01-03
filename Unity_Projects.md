@@ -10,7 +10,7 @@ title: Unity Projects
 </div>
 
 ## Project Rock Hopper
-![Download](assets/images/icon-download.svg){:class='icon icon-download'} Private Github Repository
+![Download](assets/images/download.png){:class='icon icon-download'} Private Github Repository
 
 ![RockHopper](assets/images/project_rock_hopper.png)
 
