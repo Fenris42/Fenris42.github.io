@@ -54,10 +54,22 @@ A top down dungeon crawler RPG
 
 **Goals:**
 
-- ![Check](assets/images/icons/check.png){:class="icon"}Implement mob AI for multiple class configurations, player tracking and targeting solutions
+![Check](assets/images/icons/check.png){:class="icon"} Implement levels using a tilemap
+
+![Check](assets/images/icons/check.png){:class="icon"} Movement and attacks in 4 directions
+
+![Check](assets/images/icons/check.png){:class="icon"} Mob AI that uses a single configurable template
+* Class selection dropdown from editor with configurable weights to attacks
+
+![Check](assets/images/icons/check.png){:class="icon"} Mob AI that tracks and reacts to players position and has collision avoidance
 
 **Retrospective:**
 
+- Top down added more directions of travel and more freedom of design, however it increased programming complexity more than initially thought
+	- Asset store had limited selection of art for this camera angle
+	- Assets required more sprites and animations to cover front and back directions
+	- Camera angle made perspectives difficult to manage such as doors on the left, right and bottom of screen not looking right
+- Had a hard time finding the fun and direction of the game
 
 ---
 
