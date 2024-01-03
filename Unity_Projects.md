@@ -17,7 +17,7 @@ title: Unity Projects
 **Status:** Active
 
 **Description:** 
-* A 2D side scrolling asteroid mining game. Mine resources while managing your life support resources. Cash in your loot and upgrade your gear and ship to go to further asteroids and dig deeper. Watch out for pirates on your adventure!
+A 2D side scrolling asteroid mining game. Mine resources while managing your life support resources. Cash in your loot and upgrade your gear and ship to go to further asteroids and dig deeper. Watch out for pirates on your adventure!
 
 **Goals:**
 
