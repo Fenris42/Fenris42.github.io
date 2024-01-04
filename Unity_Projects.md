@@ -68,12 +68,15 @@ A top down dungeon crawler RPG
 
 ![X](assets/images/icons/x.png){:class="icon"} Procedural dungeon generation
 
+![X](assets/images/icons/x.png){:class="icon"} A completed prototype
+
 - Game shelved before acheiving
 
 
 **Retrospective:**
 
 - Had a hard time finding the fun and direction of the game
+- Team was initially excited about project but in reality didnt have enough time to dedicate to the project
 - Top down added more directions of travel and more freedom of design, however it increased programming complexity more than initially thought
 - Asset store had limited selection of art for this camera angle
 - Assets required more sprites and animations to cover front and back directions
@@ -94,8 +97,14 @@ A top down dungeon crawler RPG
 
 A wave and lane based protect the tower game
 
+
 **Goals:**
+
 ![Check](assets/images/icons/check.png){:class="icon"} First attempt at creating a game not from a tutorial or template
+
+![Check](assets/images/icons/check.png){:class="icon"} Multiple scenes
+
+- Created a main menu at launch that started the game
 
 ![Check](assets/images/icons/check.png){:class="icon"} Instantiated enemies
 
@@ -111,7 +120,10 @@ A wave and lane based protect the tower game
 **Retrospective:**
 
 - Game shelved due to game team breaking up over creative differences and direction
+- Game based on an out dated genre. However one that seemed accomplishable
 - Mobs where completely seperate code bases and lead to duplicated code and difficulty updating across all enemies
+- Learned to collaborate on game development through weekly meetings and daily chat messaging
+- Used Github to collaborate through commits and get quick feedback after implementing each feature to not invest to much time and effort if something needed changes
 
 ---
 
@@ -126,14 +138,28 @@ A wave and lane based protect the tower game
 
 **Description:**
 
-My first indipendent game where I was experimenting with implementing a variety of common game systems in preparation to start a real attempt at making a game.
+My first indipendent "game" where I was prototyping in a sandbox style by implementing a variety of common game systems in preparation to start a real attempt at making a game. This was to allow myself to make mistakes and a mess care free in order to learn how to better implement them in the future while getting more familiar with game development.
 
 
 **Goals:**
 
+![Check](assets/images/icons/check.png){:class="icon"} Character movement. Left, right, jump
+
+![Check](assets/images/icons/check.png){:class="icon"} Basic health system
+
+![Check](assets/images/icons/check.png){:class="icon"} Basic Mobs with simple AI and attack
+
+![Check](assets/images/icons/check.png){:class="icon"} Collision detection
+
+![Check](assets/images/icons/check.png){:class="icon"} Mob loot
+
+![Check](assets/images/icons/check.png){:class="icon"} Inventory system
+
 
 **Retrospective:**
 
+- Successfully implemented a variety of systems on my own and through referencing tutorials
+- Gained a lot of knowledge quickly about game programming and identified areas for future improvement
 
 ---
 
@@ -164,11 +190,13 @@ My first indipendent game where I was experimenting with implementing a variety 
 
 ![Check](assets/images/icons/check.png){:class="icon"} Expand on tutorial and implement anything on my own to prove understanding
 
-- Continued experimenting after tutorial with a life system and 3 lives
+- Continued experimenting after tutorial with a life system
 
 
 **Retrospective:**
 
 - Game developement is fun and a lot less scary than first anticipated
-- Learned basics of components and how to use them
-- Learned about game objects and game structure
+- Learned basics of Unity
+- Learned basics of Github
+- Learned basics of C#
+- Learned basics of game structures, scripts and components
