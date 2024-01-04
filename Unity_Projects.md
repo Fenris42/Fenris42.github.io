@@ -17,7 +17,8 @@ Private Github Repository
 
 ![RockHopper](assets/images/screenshots/project_rock_hopper.png)
 
-### Status: Active
+### Status: 
+- Active
 
 
 ### Description:
