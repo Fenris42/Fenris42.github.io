@@ -12,6 +12,7 @@ title: Unity Projects
 ---
 
 ## Project Rock Hopper
+
 ![RockHopper](assets/images/screenshots/project_rock_hopper.png)
 
 ![Download](assets/images/icons/download.png){:class='icon icon-download'}
@@ -42,19 +43,18 @@ A 2D asteroid mining game. Mine resources while balancing life support and defen
 ---
 
 ## Project Forest
-[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Project_Forest){:target="_blank"}
-[Github Repository](https://github.com/Fenris42/Project_Forest){:target="_blank"}
 
 ![Forest](assets/images/screenshots/project_forest.png)
+
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Project_Forest){:target="_blank"}
+[Github Repository](https://github.com/Fenris42/Project_Forest){:target="_blank"}
 
 ### Status:
 - Shelved  
 
-
 ### Description:
 
 A top down dungeon crawler RPG inspired by [Cult of the Lamb](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/){:target="_blank"}
-
 
 ### Goals:
 
@@ -70,7 +70,6 @@ A top down dungeon crawler RPG inspired by [Cult of the Lamb](https://store.stea
 
 ![X](assets/images/icons/x.png){:class="icon"} A completed prototype
 
-
 ### Retrospective:
 
 - Had a hard time finding the fun and direction of the game
@@ -83,19 +82,18 @@ A top down dungeon crawler RPG inspired by [Cult of the Lamb](https://store.stea
 ---
 
 ## Project Sebastion
-[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Project_Sebastion){:target="_blank"}
-[Github Repository](https://github.com/Fenris42/Project_Sebastion){:target="_blank"}
 
 ![Sebastion](assets/images/screenshots/project_sebastion.png)
+
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Project_Sebastion){:target="_blank"}
+[Github Repository](https://github.com/Fenris42/Project_Sebastion){:target="_blank"}
 
 ### Status:
 - Shelved  
 
-
 ### Description:
 
 A wave and lane based protect the tower game
-
 
 ### Goals:
 
@@ -113,7 +111,6 @@ A wave and lane based protect the tower game
 
 ![X](assets/images/icons/x.png){:class="icon"} A completed prototype
 
-
 ### Retrospective:
 
 - Game shelved due to game team breaking up over creative differences and direction
@@ -125,19 +122,18 @@ A wave and lane based protect the tower game
 ---
 
 ## 2D Game Experiment
-[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/2D_Platformer_Experiment){:target="_blank"}
-[Github Repository](https://github.com/Fenris42/2D_Platformer_Experiment){:target="_blank"}
 
 ![2D_Experiment](assets/images/screenshots/2d_experiment.png)
+
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/2D_Platformer_Experiment){:target="_blank"}
+[Github Repository](https://github.com/Fenris42/2D_Platformer_Experiment){:target="_blank"}
 
 ### Status:
 - Complete  
 
-
 ### Description:
 
 My first indipendent "game" where I was prototyping in a sandbox style by implementing a variety of common game systems in preparation to start a real attempt at making a game. This was to allow myself to make mistakes and a mess care free in order to learn how to better implement them in the future while getting more familiar with game development.
-
 
 ### Goals:
 
@@ -153,7 +149,6 @@ My first indipendent "game" where I was prototyping in a sandbox style by implem
 
 ![Check](assets/images/icons/check.png){:class="icon"} Inventory system
 
-
 ### Retrospective:
 
 - Successfully implemented a variety of systems on my own and through referencing tutorials
@@ -162,20 +157,19 @@ My first indipendent "game" where I was prototyping in a sandbox style by implem
 ---
 
 ## Flappy Borb
-[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Flappy_Borb){:target="_blank"}
-[Github Repository](https://github.com/Fenris42/Flappy_Borb){:target="_blank"}
 
 ![FlappyBorb](assets/images/screenshots/flappy_borb.png)
 
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Flappy_Borb){:target="_blank"}
+[Github Repository](https://github.com/Fenris42/Flappy_Borb){:target="_blank"}
+
 ### Status:
 - Complete  
-
 
 ### Description:
 
 - My very first Unity project and attempt at game developement
 - Followed tutorial [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORBmM?si=leTh6QheRjBX62GI)
-
 
 ### Goals:
 
@@ -190,7 +184,6 @@ My first indipendent "game" where I was prototyping in a sandbox style by implem
 ![Check](assets/images/icons/check.png){:class="icon"} Expand on tutorial and implement anything on my own to prove understanding
 
 - Continued experimenting after tutorial with a life system
-
 
 ### Retrospective:
 
