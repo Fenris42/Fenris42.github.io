@@ -38,6 +38,8 @@ A 2D asteroid mining game. Mine resources while balancing life support and defen
 - Take off and land on asteroid from your parent ship in orbit
 - Asteroid selection from map screen
 - A space station hub for you to upgrade your gear, upgrade your ship, sell loot and get quests from
+- Gear upgrades
+- Ship upgrades
 - Pirate enemies to encounter on your travels
 
 ---
@@ -137,9 +139,11 @@ My first indipendent "game" where I was prototyping in a sandbox style by implem
 
 ### Goals:
 
-![Check](assets/images/icons/check.png){:class="icon"} Character movement. Left, right, jump
+![Check](assets/images/icons/check.png){:class="icon"} Character movement (left, right, jump)
 
-![Check](assets/images/icons/check.png){:class="icon"} Basic health system
+![Check](assets/images/icons/check.png){:class="icon"} Basic health system (heal/damage)
+
+![Check](assets/images/icons/check.png){:class="icon"} Basic combat system (melee/ranged)
 
 ![Check](assets/images/icons/check.png){:class="icon"} Basic Mobs with simple AI and attack
 
@@ -152,7 +156,7 @@ My first indipendent "game" where I was prototyping in a sandbox style by implem
 ### Retrospective:
 
 - Successfully implemented a variety of systems on my own and through referencing tutorials
-- Gained a lot of knowledge quickly about game programming and identified areas for future improvement
+- Gained a lot of knowledge quickly about game programming and identified areas of strenght and weakness for future improvement
 
 ---
 
