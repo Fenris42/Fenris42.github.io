@@ -70,8 +70,6 @@ A top down dungeon crawler RPG
 
 ![X](assets/images/icons/x.png){:class="icon"} A completed prototype
 
-- Game shelved before acheiving
-
 
 **Retrospective:**
 
@@ -103,8 +101,6 @@ A wave and lane based protect the tower game
 ![Check](assets/images/icons/check.png){:class="icon"} First attempt at creating a game not from a tutorial or template
 
 ![Check](assets/images/icons/check.png){:class="icon"} Multiple scenes
-
-- Created a main menu at launch that started the game
 
 ![Check](assets/images/icons/check.png){:class="icon"} Instantiated enemies
 
