@@ -12,19 +12,17 @@ title: Unity Projects
 ---
 
 ## Project Rock Hopper
+![RockHopper](assets/images/screenshots/project_rock_hopper.png)
+
 ![Download](assets/images/icons/download.png){:class='icon icon-download'}
 Private Github Repository
-
-![RockHopper](assets/images/screenshots/project_rock_hopper.png)
 
 ### Status: 
 - Active
 
-
 ### Description:
 
-A 2D side scrolling asteroid mining game. Mine resources while balancing life support and defending yourself from pirates. Cash in your loot at the local space station to upgrade your gear and ship
-
+A 2D asteroid mining game. Mine resources while balancing life support and defending yourself from pirates. Cash in your loot at the local space station to upgrade your gear and ship
 
 ### Goals:
 
@@ -120,8 +118,8 @@ A wave and lane based protect the tower game
 
 - Game shelved due to game team breaking up over creative differences and direction
 - Game based on an out dated genre. However one that seemed accomplishable
-- Mobs where completely seperate code bases and lead to duplicated code and difficulty updating across all enemies
-- Learned to collaborate on game development through weekly meetings and daily chat messaging
+- Mobs where completely seperate code bases and lead to duplicated code and difficulty scaling
+- Learned to collaborate as a team on game development through weekly meetings and daily chat messaging
 - Used Github to collaborate through commits and get quick feedback after implementing each feature to not invest to much time and effort if something needed changes
 
 ---
