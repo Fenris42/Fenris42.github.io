@@ -17,28 +17,28 @@ Private Github Repository
 
 ![RockHopper](assets/images/screenshots/project_rock_hopper.png)
 
-**Status:** Active
+### Status: Active
 
 
-**Description:** 
+### Description:
 
 A 2D side scrolling asteroid mining game. Mine resources while balancing life support and defending yourself from pirates. Cash in your loot at the local space station to upgrade your gear and ship
 
 
-**Goals:**
+### Goals:
 
 ![Check](assets/images/icons/check.png){:class="icon"} Low gravity movement and jetpack flight
 
 ![Check](assets/images/icons/check.png){:class="icon"} Dynamic digging using a tilemap
 
-![Check](assets/images/icons/check.png){:class="icon"} Dynamic light system using a tilemap
+![Check](assets/images/icons/check.png){:class="icon"} Dynamic light system and fog of war using tilemap
 
 ![Check](assets/images/icons/check.png){:class="icon"} Procedural level generation
 
 - Take off and land on asteroid from your parent ship in orbit
 - Asteroid selection from map screen
 - A space station hub for you to upgrade your gear, upgrade your ship, sell loot and get quests from
-- Add pirate enemies to encounter on your travels
+- Pirate enemies to encounter on your travels
 
 ---
 
@@ -53,18 +53,18 @@ A 2D side scrolling asteroid mining game. Mine resources while balancing life su
 
 **Description:**
 
-A top down dungeon crawler RPG
+A top down dungeon crawler RPG inspired by [Cult of the Lamb](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/){:target="_blank"}
 
 
 **Goals:**
 
 ![Check](assets/images/icons/check.png){:class="icon"} Implement levels using a tilemap
 
-![Check](assets/images/icons/check.png){:class="icon"} Movement and attacks in 4 directions
+![Check](assets/images/icons/check.png){:class="icon"} Movement and attacks in 4 directions (up, down, left, right)
 
 ![Check](assets/images/icons/check.png){:class="icon"} Mob AI that uses a single configurable template for class selection and attacks
 
-![Check](assets/images/icons/check.png){:class="icon"} Mob AI that tracks and reacts to players position and has collision avoidance
+![Check](assets/images/icons/check.png){:class="icon"} Mob AI that tracks and reacts to players position and has obstacle avoidance
 
 ![X](assets/images/icons/x.png){:class="icon"} Procedural dungeon generation
 
