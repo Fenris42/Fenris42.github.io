@@ -19,9 +19,11 @@ Private Github Repository
 
 **Status:** Active
 
+
 **Description:** 
 
 A 2D side scrolling asteroid mining game. Mine resources while balancing life support and defending yourself from pirates. Cash in your loot at the local space station to upgrade your gear and ship
+
 
 **Goals:**
 
@@ -64,6 +66,10 @@ A top down dungeon crawler RPG
 
 ![Check](assets/images/icons/check.png){:class="icon"} Mob AI that tracks and reacts to players position and has collision avoidance
 
+![X](assets/images/icons/x.png){:class="icon"} Procedural dungeon generation
+
+- Game shelved before acheiving
+
 
 **Retrospective:**
 
@@ -76,33 +82,93 @@ A top down dungeon crawler RPG
 ---
 
 ## Project Sebastion
-**Status:** Shelved  
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Project_Sebastion){:target="_blank"}
 [Github Repository](https://github.com/Fenris42/Project_Sebastion){:target="_blank"}
 
 ![Sebastion](assets/images/screenshots/project_sebastion.png)
-A lane based protect the tower game
-- Wave based enemies
-- Resource drop on mob death
+
+**Status:** Shelved  
+
+
+**Description:**
+
+A wave and lane based protect the tower game
+
+**Goals:**
+![Check](assets/images/icons/check.png){:class="icon"} First attempt at creating a game not from a tutorial or template
+
+![Check](assets/images/icons/check.png){:class="icon"} Instantiated enemies
+
+![Check](assets/images/icons/check.png){:class="icon"} Basic Mob AI to move to attack range and attack wall
+
+![Check](assets/images/icons/check.png){:class="icon"} Wave spawning system
+
+![Check](assets/images/icons/check.png){:class="icon"} Mobs dropped loot on death thats able to be retrieved by player
+
+![X](assets/images/icons/x.png){:class="icon"} A completed prototype
+
+
+**Retrospective:**
+
+- Game shelved due to game team breaking up over creative differences and direction
+- Mobs where completely seperate code bases and lead to duplicated code and difficulty updating across all enemies
 
 ---
 
 ## 2D Game Experiment
-**Status:** Complete  
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/2D_Platformer_Experiment){:target="_blank"}
 [Github Repository](https://github.com/Fenris42/2D_Platformer_Experiment){:target="_blank"}
 
 ![2D_Experiment](assets/images/screenshots/2d_experiment.png)
+
+**Status:** Complete  
+
+
+**Description:**
+
 My first indipendent game where I was experimenting with implementing a variety of common game systems in preparation to start a real attempt at making a game.
+
+
+**Goals:**
+
+
+**Retrospective:**
+
 
 ---
 
 ## Flappy Borb
-**Status:** Complete  
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Flappy_Borb){:target="_blank"}
 [Github Repository](https://github.com/Fenris42/Flappy_Borb){:target="_blank"}
 
 ![FlappyBorb](assets/images/screenshots/flappy_borb.png)
-My very first Unity project and attempt at game developement
+
+**Status:** Complete  
+
+
+**Description:**
+
+- My very first Unity project and attempt at game developement
 - Followed tutorial [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORBmM?si=leTh6QheRjBX62GI)
+
+
+**Goals:**
+
+![Check](assets/images/icons/check.png){:class="icon"} Learn how to setup and use Unity
+
+![Check](assets/images/icons/check.png){:class="icon"} Learn how to setup and use Github
+
+![Check](assets/images/icons/check.png){:class="icon"} Learn basics of C#
+
+![Check](assets/images/icons/check.png){:class="icon"} Complete a basic prototype
+
+![Check](assets/images/icons/check.png){:class="icon"} Expand on tutorial and implement anything on my own to prove understanding
+
 - Continued experimenting after tutorial with a life system and 3 lives
+
+
+**Retrospective:**
+
+- Game developement is fun and a lot less scary than first anticipated
+- Learned basics of components and how to use them
+- Learned about game objects and game structure
