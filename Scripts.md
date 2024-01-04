@@ -6,12 +6,14 @@ title: Scripts
 # Scripts
 
 ## Delete Meta Files
-[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Delete_Meta_Files){:target="_blank"}
-[Github Repository](https://github.com/Fenris42/Delete_Meta_Files){:target="_blank"}  
 
 ![Delete_Meta_Files](assets/images/screenshots/Delete_Meta_Files.PNG)
 
-**Language:** Powershell
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Delete_Meta_Files){:target="_blank"}
+[Github Repository](https://github.com/Fenris42/Delete_Meta_Files){:target="_blank"}  
+
+### Language:
+- Powershell
 
 When downloading an asset pack from the Unity Asset Store I move it out of my Unity project and into a seperate local library of assets on my PC. I do this to only import files into my games that are required and to make browsing and reuse of assets easier.
 
