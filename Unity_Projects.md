@@ -49,15 +49,16 @@ A 2D side scrolling asteroid mining game. Mine resources while balancing life su
 
 ![Forest](assets/images/screenshots/project_forest.png)
 
-**Status:** Shelved  
+### Status:
+- Shelved  
 
 
-**Description:**
+### Description:
 
 A top down dungeon crawler RPG inspired by [Cult of the Lamb](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/){:target="_blank"}
 
 
-**Goals:**
+### Goals:
 
 ![Check](assets/images/icons/check.png){:class="icon"} Implement levels using a tilemap
 
@@ -72,7 +73,7 @@ A top down dungeon crawler RPG inspired by [Cult of the Lamb](https://store.stea
 ![X](assets/images/icons/x.png){:class="icon"} A completed prototype
 
 
-**Retrospective:**
+### Retrospective:
 
 - Had a hard time finding the fun and direction of the game
 - Team was initially excited about project but in reality didnt have enough time to dedicate to the project
@@ -89,15 +90,16 @@ A top down dungeon crawler RPG inspired by [Cult of the Lamb](https://store.stea
 
 ![Sebastion](assets/images/screenshots/project_sebastion.png)
 
-**Status:** Shelved  
+### Status:
+- Shelved  
 
 
-**Description:**
+### Description:
 
 A wave and lane based protect the tower game
 
 
-**Goals:**
+### Goals:
 
 ![Check](assets/images/icons/check.png){:class="icon"} First attempt at creating a game not from a tutorial or template
 
@@ -114,7 +116,7 @@ A wave and lane based protect the tower game
 ![X](assets/images/icons/x.png){:class="icon"} A completed prototype
 
 
-**Retrospective:**
+### Retrospective:
 
 - Game shelved due to game team breaking up over creative differences and direction
 - Game based on an out dated genre. However one that seemed accomplishable
@@ -130,15 +132,16 @@ A wave and lane based protect the tower game
 
 ![2D_Experiment](assets/images/screenshots/2d_experiment.png)
 
-**Status:** Complete  
+### Status:
+- Complete  
 
 
-**Description:**
+### Description:
 
 My first indipendent "game" where I was prototyping in a sandbox style by implementing a variety of common game systems in preparation to start a real attempt at making a game. This was to allow myself to make mistakes and a mess care free in order to learn how to better implement them in the future while getting more familiar with game development.
 
 
-**Goals:**
+### Goals:
 
 ![Check](assets/images/icons/check.png){:class="icon"} Character movement. Left, right, jump
 
@@ -153,7 +156,7 @@ My first indipendent "game" where I was prototyping in a sandbox style by implem
 ![Check](assets/images/icons/check.png){:class="icon"} Inventory system
 
 
-**Retrospective:**
+### Retrospective:
 
 - Successfully implemented a variety of systems on my own and through referencing tutorials
 - Gained a lot of knowledge quickly about game programming and identified areas for future improvement
@@ -166,16 +169,17 @@ My first indipendent "game" where I was prototyping in a sandbox style by implem
 
 ![FlappyBorb](assets/images/screenshots/flappy_borb.png)
 
-**Status:** Complete  
+### Status:
+- Complete  
 
 
-**Description:**
+### Description:
 
 - My very first Unity project and attempt at game developement
 - Followed tutorial [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORBmM?si=leTh6QheRjBX62GI)
 
 
-**Goals:**
+### Goals:
 
 ![Check](assets/images/icons/check.png){:class="icon"} Learn how to setup and use Unity
 
@@ -190,7 +194,7 @@ My first indipendent "game" where I was prototyping in a sandbox style by implem
 - Continued experimenting after tutorial with a life system
 
 
-**Retrospective:**
+### Retrospective:
 
 - Game developement is fun and a lot less scary than first anticipated
 - Learned basics of Unity
