@@ -27,16 +27,20 @@ Timberbons game loop is about alternating seasons between temperate weather to e
 
 ### Description
 
-A custom game map created using games map editor
+A custom game map created using the games built in map editor
 
 ### Map Layout
 1) A lush starting area with [berry patchs](https://timberborn.wiki.gg/wiki/Berries){:target="_blank"} for plentiful starting food and nearby trees and river
+
 2) A deep water reservoir thats easy to damn for droughts and [badtides](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} surrounded by a bounty of berries and trees for construction kept [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts
 - However, bad water (11) will start creeping towards the intake and toxicity will start or rise. A gentle challenge for the player to overcome and to start thinking about this maps meta
 
 3) A short river to build industry and [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"} for power
+
 4) An easy area to expand to for a early game farms and to be later replaced by industry
+
 5/6) Nearby islands easy to expand to. Farming was in mind for these islands because of the damnable water sources for [irrigation](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} and easy to clear foliage
+
 7/8) Islands that can be reached through a relay from island (6). However this is quite far away from your starting area and provides an incentive to create a [second district](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"}
 - Both islands have a small water source and river to facilitate a [second district](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"} or industry expansions
 - Both islands have a clearing to telegraph a district build spot
