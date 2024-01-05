@@ -12,9 +12,9 @@ title: Custom Game Maps
 A game about a post human world due to climate change where beavers are now the dominant species. The player builds a town with farms, industry, homes and entertainments in the goal to have a thriving community with a high well being score while not succumbing to the environment, hunger or thirst.
 
 Timberbons game loop is about alternating seasons between temperate weather to either a drought or a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}
-	- In temperate weather water flows from sources and everything is nice and in bloom
-	- In a drought water stops flowing from sources and water on the map starts receding and crops wither
-	- In a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} water sources start pumping [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} (toxic waste) which kills plants and makes your beavers sick on contact
+- In temperate weather water flows from sources and everything is nice and in bloom
+- In a drought water stops flowing from sources and water on the map starts receding and crops wither
+- In a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} water sources start pumping [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} (toxic waste) which kills plants and makes your beavers sick on contact
 
 ---
 
@@ -26,7 +26,7 @@ Timberbons game loop is about alternating seasons between temperate weather to e
 
 ### Map Layout
 - 1) A lush starting area with [berry patchs](https://timberborn.wiki.gg/wiki/Berries){:target="_blank"} for plentiful starting food
-	- 2) A deep water reservoir thats easy to damn for droughts and [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}s surrounded by a bounty of berries and trees for construction kept [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts
+	- 2) A deep water reservoir thats easy to damn for droughts and [badtides](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} surrounded by a bounty of berries and trees for construction kept [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts
 		- However, bad water (11) will start creeping towards the intake and toxicity will start or rise. A gentle challenge for the player to overcome and to start thinking about this maps meta
 	- 3) A short river to build industry and [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"} for power
 	- 4) An easy area to expand to for a early game farms and to be later replaced by industry
