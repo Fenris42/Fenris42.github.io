@@ -75,6 +75,6 @@ A custom game map created using the games built in map editor
 		- Incentivizing islands nearby to expand to in range of your central district but pushing the travel distance limits
 		- Players will experience their first [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} and realize this map isnt as easy as one thought and a whole new problem is revealed when the [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} doesnt dissipate easily
 	- Late Game:
-		- Multiple [district](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"} are required for shortage of land and high travel distances
-		- Logistics setup will be needed for trade between the islands
-		- Water toxicity is quite high and solutions need to be implemented to protect anything on a coast line
+		- Multiple [districts](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"} are required due to shortage of land and long travel distances between them
+		- Logistics and trade setups will be needed between the islands
+		- Water toxicity is quite high and solutions need to be implemented to protect anything on a coast line or near a water source
