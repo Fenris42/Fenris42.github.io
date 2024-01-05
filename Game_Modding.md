@@ -33,6 +33,7 @@ A custom game map created using games map editor
 1) A lush starting area with [berry patchs](https://timberborn.wiki.gg/wiki/Berries){:target="_blank"} for plentiful starting food and nearby trees and river
 2) A deep water reservoir thats easy to damn for droughts and [badtides](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} surrounded by a bounty of berries and trees for construction kept [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts
 - However, bad water (11) will start creeping towards the intake and toxicity will start or rise. A gentle challenge for the player to overcome and to start thinking about this maps meta
+
 3) A short river to build industry and [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"} for power
 4) An easy area to expand to for a early game farms and to be later replaced by industry
 5/6) Nearby islands easy to expand to. Farming was in mind for these islands because of the damnable water sources for [irrigation](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} and easy to clear foliage
@@ -41,8 +42,10 @@ A custom game map created using games map editor
 - Both islands have a clearing to telegraph a district build spot
 - Both islands have a damnable water source for drinking water and [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"}
 - Both islands have abundant trees for construction
+
 9) An island to expand to from island (1) with forestry in mind. Trees are hard to clear but provide more wood than normal trees.
 - The moon shaped bay is also possible to build a damn across but will be more challenging than other islands. The islands abundant trees will make local construction easier.
+
 10) An old human outpost now in ruins
 - [Badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} source to contain and harvest
 - Mid game opportunity for scrap metal harvesting from ruins for metal production
