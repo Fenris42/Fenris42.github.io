@@ -30,7 +30,7 @@ Timberbons game loop is about alternating seasons between temperate weather to e
 A custom game map created using the games built in map editor
 
 ### Map Layout
-1) A lush starting area with [berry patchs](https://timberborn.wiki.gg/wiki/Berries){:target="_blank"} for plentiful starting food and nearby trees and river
+1) A lush starting area with [berry patchs](https://timberborn.wiki.gg/wiki/Berries){:target="_blank"} for plentiful starting food, nearby trees for construction and a river for [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"}
 
 2) A deep water reservoir thats easy to damn for droughts and [badtides](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} surrounded by a bounty of berries and trees for construction kept [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts
 - However, bad water (11) will start creeping towards the intake and toxicity will start or rise. A gentle challenge for the player to overcome and to start thinking about this maps meta
