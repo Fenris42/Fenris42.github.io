@@ -19,10 +19,15 @@ Timberbons game loop is about alternating seasons between temperate weather to e
 ---
 
 ## Red Tide Islands
+
+![Red_Tide_Island](assets/images/screenshots/Red_Tide_Island.PNG)
+
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://mod.io/g/timberborn/m/red-tide-islands){:target="_blank"}
 [Mod.io Download](https://mod.io/g/timberborn/m/red-tide-islands){:target="_blank"}
 
-![Red_Tide_Island](assets/images/screenshots/Red_Tide_Island.PNG)
+### Description
+
+A custom game map created using games map editor
 
 ### Map Layout
 - 1) A lush starting area with [berry patchs](https://timberborn.wiki.gg/wiki/Berries){:target="_blank"} for plentiful starting food
