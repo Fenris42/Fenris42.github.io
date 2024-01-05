@@ -117,7 +117,7 @@ A wave and lane based protect the tower game
 
 - Game shelved due to game team breaking up over creative differences and direction
 - Game based on an out dated genre. However one that seemed accomplishable
-- Mobs where completely seperate code bases and lead to duplicated code and difficulty scaling
+- Mobs where completely separate code bases and lead to duplicated code and difficulty scaling
 - Learned to collaborate as a team on game development through weekly meetings and daily chat messaging
 - Used Github to collaborate through commits and get quick feedback after implementing each feature to not invest to much time and effort if something needed changes
 
@@ -135,7 +135,7 @@ A wave and lane based protect the tower game
 
 ### Description:
 
-My first indipendent "game" where I was prototyping in a sandbox style by implementing a variety of common game systems in preparation to start a real attempt at making a game. This was to allow myself to make mistakes and a mess care free in order to learn how to better implement them in the future while getting more familiar with game development.
+My first independent "game" where I was prototyping in a sandbox style by implementing a variety of common game systems in preparation to start a real attempt at making a game. This was to allow myself to make mistakes and a mess care free in order to learn how to better implement them in the future while getting more familiar with game development.
 
 ### Goals:
 
@@ -156,7 +156,7 @@ My first indipendent "game" where I was prototyping in a sandbox style by implem
 ### Retrospective:
 
 - Successfully implemented a variety of systems on my own and through referencing tutorials
-- Gained a lot of knowledge quickly about game programming and identified areas of strenght and weakness for future improvement
+- Gained a lot of knowledge quickly about game programming and identified areas of strength and weakness for future improvement
 
 ---
 
@@ -172,7 +172,7 @@ My first indipendent "game" where I was prototyping in a sandbox style by implem
 
 ### Description:
 
-- My very first Unity project and attempt at game developement
+- My very first Unity project and attempt at game development
 - Followed tutorial [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORBmM?si=leTh6QheRjBX62GI)
 
 ### Goals:
@@ -191,7 +191,7 @@ My first indipendent "game" where I was prototyping in a sandbox style by implem
 
 ### Retrospective:
 
-- Game developement is fun and a lot less scary than first anticipated
+- Game development is fun and a lot less scary than first anticipated
 - Learned basics of Unity
 - Learned basics of Github
 - Learned basics of C#

@@ -9,11 +9,12 @@ title: Custom Game Maps
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
 [Steam Store](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
 
-- A game about a post human world where beavers are now the dominant species
-- The player builds a town with farms, industry, homes and entertainments in the goal to have a thriving community with a high well being score
-- Typical game loop is looping through alternating seasons of temperate weather where water flows and everything is nice then flips to either a drought or a bad tide
-	- In a drought water stops flowing from sources and starts receading
-	- In a bad tide water sources start pumping bad water (toxic waste) which kills plants and makes your beavers sick on contact
+A game about a post human world due to climate change where beavers are now the dominant species. The player builds a town with farms, industry, homes and entertainments in the goal to have a thriving community with a high well being score while not succumbing to the environment, hunger or thirst.
+
+Timberbons game loop is about alternating seasons between temperate weather to either a drought or a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}
+	- In temperate weather water flows from sources and everything is nice and in bloom
+	- In a drought water stops flowing from sources and water on the map starts receding and crops wither
+	- In a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} water sources start pumping [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} (toxic waste) which kills plants and makes your beavers sick on contact
 
 ---
 
@@ -24,43 +25,42 @@ title: Custom Game Maps
 ![Red_Tide_Island](assets/images/screenshots/Red_Tide_Island.PNG)
 
 ### Map Layout
-- 1) Your starting area
-	- 2) A deep resevoir thats easy to damn
-		- However, creeping bad water (11) from island 10 will start creeping towards the intake and toxicity will start or rise. A challenge for the player to overcome.
-	- 3) A short river to build water wheels and industry around
-	- 4) An easy area to expand to for a early game farms and later replaced by inustry
-- 5/6) Nearby islands easy to expand to. Farming was in mind for these islands because of the irrigation and easy to clear folliage
-	- 5) Has a cut between the 2 segmants that can be damned for irigation
-	- 6) Has a small pond that will fill once a small amount of debris is cleared from the intake
-- 7/8) Islands that can be reached through a relay from island 6. However this is quite far away from your starting place and provides an incentive to create a [second district](https://timberborn.fandom.com/wiki/Districts)
-	- Both islands have a small water source and river to facilitate a second setup or industry expansions
+- 1) A lush starting area with [berry patchs](https://timberborn.wiki.gg/wiki/Berries){:target="_blank"} for plentiful starting food
+	- 2) A deep water reservoir thats easy to damn for droughts and [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}s surrounded by a bounty of berries and trees for construction kept [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts
+		- However, bad water (11) will start creeping towards the intake and toxicity will start or rise. A gentle challenge for the player to overcome and to start thinking about this maps meta
+	- 3) A short river to build industry and [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"} for power
+	- 4) An easy area to expand to for a early game farms and to be later replaced by industry
+- 5/6) Nearby islands easy to expand to. Farming was in mind for these islands because of the damnable water sources for [irrigation](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} and easy to clear foliage
+- 7/8) Islands that can be reached through a relay from island (6). However this is quite far away from your starting area and provides an incentive to create a [second district](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"}
+	- Both islands have a small water source and river to facilitate a [second district](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"} or industry expansions
 	- Both islands have a clearing to telegraph a district build spot
-	- Both islands have a damnable water source for drinking water
+	- Both islands have a damnable water source for drinking water and [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"}
 	- Both islands have abundant trees for construction
-- 9) An island to expand to from island 1 with forestry in mind. Trees are hard to clear but provide more wood than normal trees.
-- 10) An old human outpost
-	- Bad water source to contain and harvest
-	- Mid game opportunity for scrap metal harvesting from ruins
-	- A underground entrance for a late game scrap metal mine
+- 9) An island to expand to from island (1) with forestry in mind. Trees are hard to clear but provide more wood than normal trees.
+	- The moon shaped bay is also possible to build a damn across but will be more challenging than other islands. The islands abundant trees will make local construction easier.
+- 10) An old human outpost now in ruins
+	- [Badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} source to contain and harvest
+	- Mid game opportunity for scrap metal harvesting from ruins for metal production
+	- A [underground ruins](https://timberborn.wiki.gg/wiki/Underground_Ruins){:target="_blank"} entrance for a late game scrap metal mine
 
 ### The Challenge
-- This is an opposite approach map which flips the [typical scenerio](https://timberborn.fandom.com/wiki/Maps) upside down
- - Typical maps are land locked with a shallow river running through it to provide horsepower for water wheels and water dries up during a drought
- - This map, water is abundant but current is scarce
-	- Water drops a bit but stays around during a drought
-	- However, when a bad tide season comes the map is now flooded with bad water that tends to stick around after the season inceasing toxicity around you
+- This is an opposite approach map which flips the [typical scenario](https://timberborn.wiki.gg/wiki/Maps){:target="_blank"} upside down
+ - Typical maps are land locked with a shallow river running through it to provide horsepower for [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"} and water dries up during a drought
+ - This map, water is abundant but current for water wheels is scarce
+	- Water levels drops a bit but stays around during a drought due to the maps border
+	- However, when a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} season comes the map is now flooded with [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} that tends to linger longer than normal after the season increasing toxicity around you and creating challenging areas around all coast lines
 	- This is a play on to much of a good thing and water water everywhere but not a drop to drink
 
 ### Design Choices
-- A challenging map different that its competitors on 3rd party sites
-- Water is unusually ubundant but becomes a primary antagonist in the maps progression
+- A challenging map different that its competitors on 3rd party sites or [base game scenarios](https://timberborn.wiki.gg/wiki/Maps){:target="_blank"}
+- Water is unusually abundant but becomes a primary antagonist in the maps progression as [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} toxicity increases
 - Progression:
 	- Early Game:
-		- Abundant resources and well telegraphed build spots
+		- Abundant resources and well flat, well telegraphed build spots
 	- Mid Game:
-		- Insentivising islands nearby to expand to in range of your central district but pushing the limits
-		- Playes will experience their first bad tide and realise this map isnt as easy as one thought and a whole new problem is revealed when the bad water doesnt disipate easily
+		- Incentivizing islands nearby to expand to in range of your central district but pushing the travel distance limits
+		- Players will experience their first [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} and realize this map isnt as easy as one thought and a whole new problem is revealed when the [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} doesnt dissipate easily
 	- Late Game:
-		- Multiple districts are required for shortage of land and high travel distances
+		- Multiple [district](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"} are required for shortage of land and high travel distances
 		- Logistics setup will be needed for trade between the islands
-		- Water toxicity is quite high and solutions need to be implemented to protect anyting on a coast line
+		- Water toxicity is quite high and solutions need to be implemented to protect anything on a coast line
