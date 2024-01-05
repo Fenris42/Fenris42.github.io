@@ -61,11 +61,13 @@ A custom game map created using the games built in map editor
  - This map, water is abundant but current for water wheels is scarce
 	- Water levels drops a bit but stays around during a drought due to the maps border
 	- However, when a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} season comes the map is now flooded with [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} that tends to linger longer than normal after the season increasing toxicity around you and creating challenging areas around all coast lines
-	- This is a play on to much of a good thing and water water everywhere but not a drop to drink
+	
 
 ### Design Choices
 - A challenging map different that its competitors on 3rd party sites or [base game scenarios](https://timberborn.wiki.gg/wiki/Maps){:target="_blank"}
 - Water is unusually abundant but becomes a primary antagonist in the maps progression as [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} toxicity increases
+	- This is a play on "to much of a good thing" and "water water everywhere but not a drop to drink"
+
 - Progression:
 	- Early Game:
 		- Abundant resources and well flat, well telegraphed build spots
