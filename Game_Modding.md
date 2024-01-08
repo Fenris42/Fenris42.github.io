@@ -30,7 +30,7 @@ A custom game map created using the game's built-in map editor.
 ### Map Layout
 1) A lush starting area with [berry patches](https://timberborn.wiki.gg/wiki/Berries){:target="_blank"} for plentiful food, nearby trees for construction and a river for [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"}.
 
-2) A deep water reservoir thats easy to dam. Surrounded by a bounty of berries and trees for construction [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts
+2) A deep water reservoir thats easy to dam. Surrounded by a bounty of berries and trees for construction [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts.
 - However, [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} (11) will start creeping towards the intake increasing water toxicity. This presents a gentle challenge for the player to overcome and encouranges them to start thinking about this map's meta.
 
 3) A short river to build industry and [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"} for power.
@@ -40,6 +40,7 @@ A custom game map created using the game's built-in map editor.
 5/6)  Nearby islands easy to expand to. These islands were made with farming in mind, with their dammable water sources for [irrigation](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} and easy to clear foliage.
 
 7/8) Both of these islands can be reached through a relay from island (6). Since they are quite far away from your starting area, it provides an incentive to create a [second district](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"}.
+
 Both islands have:
 - A small water source and river to facilitate a [second district](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"} or industry expansions.
 - A clearing as a telegraphed district build spot.
