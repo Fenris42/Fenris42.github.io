@@ -18,9 +18,8 @@ Timberborn’s game loop involves seasons that alternate between temperate weath
 - In a drought, water stops flowing from sources and water on the map starts receding and crops wither.
 - In a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}, water sources start pumping [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} (toxic waste) which kills plants and makes your beavers sick on contact.
 
-## Mods
 
-### Red Tide Islands
+## Red Tide Islands
 
 ![Red_Tide_Island](assets/images/screenshots/Red_Tide_Island.PNG)
 
