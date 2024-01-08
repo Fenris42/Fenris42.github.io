@@ -6,7 +6,7 @@ title: Unity Projects
 # Unity Projects
 
 <div class="callout">
-  <strong>Disclaimer:</strong> Games are not for sale or distribution. All artwork depicted are placeholders as I am not an artist and just experimenting with game development   
+  <strong>Disclaimer:</strong> Games are not for sale or distribution. All artwork featured is placeholder art used for the purposes of game development experimentation.
 </div>
 
 ---
@@ -23,7 +23,7 @@ Private Github Repository
 
 ### Description:
 
-A 2D asteroid mining game. Mine resources while balancing life support and defending yourself from pirates. Cash in your loot at the local space station to upgrade your gear and ship
+A 2D asteroid mining game. Mine resources while maintaining life support and defending yourself from pirates. Cash in your loot at the local space station to upgrade your gear and ship.
 
 ### Goals:
 
@@ -56,7 +56,7 @@ A 2D asteroid mining game. Mine resources while balancing life support and defen
 
 ### Description:
 
-A top down dungeon crawler RPG inspired by [Cult of the Lamb](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/){:target="_blank"}
+A top-down dungeon crawler RPG inspired by [Cult of the Lamb.](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/){:target="_blank"}
 
 ### Goals:
 
@@ -74,12 +74,12 @@ A top down dungeon crawler RPG inspired by [Cult of the Lamb](https://store.stea
 
 ### Retrospective:
 
-- Had a hard time finding the fun and direction of the game
-- Team was initially excited about project but in reality didnt have enough time to dedicate to the project
-- Top down added more directions of travel and more freedom of design, however it increased programming complexity more than initially thought
-- Asset store had limited selection of art for this camera angle
-- Assets required more sprites and animations to cover front and back directions
-- Camera angle made perspectives difficult to manage such as doors on the left, right and bottom of screen not looking right
+- Had a hard time finding the fun and direction of the game.
+- Team was initially excited about the project but in reality didn't have enough time to dedicate it. Initially scoped as a team effort, project was shelved primarily because of this factor.
+- Top-down added more directions of travel and more freedom of design, but it increased programming complexity more than initially thought.
+- Asset store had limited selection of art for this camera angle.
+- Assets required more sprites and animations to cover front and back directions.
+- Camera angle made perspectives difficult to manage. For example doors on the left, right and bottom of screen didn't look right.
 
 ---
 
@@ -95,7 +95,7 @@ A top down dungeon crawler RPG inspired by [Cult of the Lamb](https://store.stea
 
 ### Description:
 
-A wave and lane based protect the tower game
+A tower defense game inspired by [Plants vs Zombies.](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/){:target="_blank"} Control an archer on the castle wall directly and shoot on coming enemies.
 
 ### Goals:
 
@@ -105,21 +105,21 @@ A wave and lane based protect the tower game
 
 ![Check](assets/images/icons/check.png){:class="icon"} Instantiated enemies
 
-![Check](assets/images/icons/check.png){:class="icon"} Basic Mob AI to move to attack range and attack wall
+![Check](assets/images/icons/check.png){:class="icon"} Basic mob AI to move to attack range and attack wall
 
 ![Check](assets/images/icons/check.png){:class="icon"} Wave spawning system
 
-![Check](assets/images/icons/check.png){:class="icon"} Mobs dropped loot on death thats able to be retrieved by player
+![Check](assets/images/icons/check.png){:class="icon"} Mobs drop loot on death that the player can retrieve
 
 ![X](assets/images/icons/x.png){:class="icon"} A completed prototype
 
 ### Retrospective:
 
-- Game shelved due to game team breaking up over creative differences and direction
-- Game based on an out dated genre. However one that seemed accomplishable
-- Mobs where completely separate code bases and lead to duplicated code and difficulty scaling
-- Learned to collaborate as a team on game development through weekly meetings and daily chat messaging
-- Used Github to collaborate through commits and get quick feedback after implementing each feature to not invest to much time and effort if something needed changes
+- Game shelved due to lack of team alignment over direction.
+- Game based on an older genre of games that may not be populuar in todays market. However this style of game seemed accomplishable with simple AI, player movement and reuse of characters and levels.
+- Difficulty scaling due to a lack of foresight at my current programming skill level. Code quickly became duplicated and segmented into multiple code bases and made changes time consuming.
+- Sharpened team collaboration and communication skills.
+- Used Github to distribute updates and get quick feedback after implementing each feature in order to save time and effort if changes where needed.
 
 ---
 
@@ -135,7 +135,7 @@ A wave and lane based protect the tower game
 
 ### Description:
 
-My first independent "game" where I was prototyping in a sandbox style by implementing a variety of common game systems in preparation to start a real attempt at making a game. This was to allow myself to make mistakes and a mess care free in order to learn how to better implement them in the future while getting more familiar with game development.
+My first independent project where I was prototyping in a sandbox style by implementing a variety of common game systems in preparation to start a real attempt at making a game. This was to allow myself to make mistakes and a mess care free in order to learn how to better implement them in the future while getting more familiar with game development.
 
 ### Goals:
 
@@ -155,8 +155,8 @@ My first independent "game" where I was prototyping in a sandbox style by implem
 
 ### Retrospective:
 
-- Successfully implemented a variety of systems on my own and through referencing tutorials
-- Gained a lot of knowledge quickly about game programming and identified areas of strength and weakness for future improvement
+- Successfully implemented a variety of systems on my own.
+- Learned a great deal about game programming and identified areas of strengths and areas in need of improvement.
 
 ---
 
@@ -185,14 +185,14 @@ My first independent "game" where I was prototyping in a sandbox style by implem
 
 ![Check](assets/images/icons/check.png){:class="icon"} Complete a basic prototype
 
-![Check](assets/images/icons/check.png){:class="icon"} Expand on tutorial and implement anything on my own to prove understanding
+![Check](assets/images/icons/check.png){:class="icon"} Apply skills learned by adding additional functionality to game after tutorial to prove understanding of topics learned
 
 - Continued experimenting after tutorial with a life system
 
 ### Retrospective:
 
-- Game development is fun and a lot less scary than first anticipated
-- Learned basics of Unity
-- Learned basics of Github
-- Learned basics of C#
-- Learned basics of game structures, scripts and components
+- Game development is fun and a lot less scary than first anticipated.
+- Learned basics of Unity.
+- Learned basics of Github.
+- Learned basics of C#.
+- Learned basics of game structures, scripts and components.

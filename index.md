@@ -24,4 +24,4 @@ layout: default
 </section>
 
 # Bio
-IT Systems Engineer by day and Game Developer by night. I have a love of games and technology specializing in SaaS products, automation and programming. Recently started a new adventure in game development.
+IT systems engineer with a love of technology specializing in SaaS products, automation and programming. As an avid gamer, I have recently started a new adventure into game development using and expanding on my existing skill set.
