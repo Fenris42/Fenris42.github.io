@@ -185,9 +185,9 @@ My first independent project where I was prototyping in a sandbox style by imple
 
 ![Check](assets/images/icons/check.png){:class="icon"} Complete a basic prototype
 
-![Check](assets/images/icons/check.png){:class="icon"} Apply skills learned by adding additional functionality to game after tutorial to prove understanding of topics learned
+![Check](assets/images/icons/check.png){:class="icon"} Prove understanding of skills learned by adding additional functionality to game after tutorial
 
-- Continued experimenting after tutorial with a life system
+- Continued development after tutorial by adding a 3 life system
 
 ### Retrospective:
 
