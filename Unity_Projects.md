@@ -172,8 +172,8 @@ My first independent project where I was prototyping in a sandbox style by imple
 
 ### Description:
 
-- My very first Unity project and attempt at game development
-- Followed tutorial [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORBmM?si=leTh6QheRjBX62GI)
+- My very first Unity project and attempt at game development.
+- Followed tutorial [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORBmM?si=leTh6QheRjBX62GI){:target="_blank"}.
 
 ### Goals:
 

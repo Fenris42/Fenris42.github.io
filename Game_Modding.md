@@ -11,7 +11,7 @@ title: Custom Game Maps
 
 A game about a world in which humans have died out due to climate change, and beavers are now the dominant species. The player aims for a high well-being score by building a town with farms, industry, housing and entertainment without succumbing to the environment, hunger, or thirst.
 
-Timberborn’s game loop involves seasons that alternate between temperate weather and either drought or [badtide.](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}
+Timberborn’s game loop involves seasons that alternate between temperate weather and either drought or [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}.
 - In temperate weather, water flows from sources and everything is in bloom.
 - In a drought, water stops flowing from sources and water on the map starts receding and crops wither.
 - In a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}, water sources start pumping [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} (toxic waste) which kills plants and makes your beavers sick on contact.
@@ -25,7 +25,7 @@ Timberborn’s game loop involves seasons that alternate between temperate weath
 
 ### Description
 
-A custom game map created using the game's built-in map editor
+A custom game map created using the game's built-in map editor.
 
 ### Map Layout
 1) A lush starting area with [berry patches](https://timberborn.wiki.gg/wiki/Berries){:target="_blank"} for plentiful food, nearby trees for construction and a river for [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"}.
