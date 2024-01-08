@@ -26,11 +26,11 @@ Timberborn’s game loop involves seasons that alternate between temperate weath
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://mod.io/g/timberborn/m/red-tide-islands){:target="_blank"}
 [Mod.io Download](https://mod.io/g/timberborn/m/red-tide-islands){:target="_blank"}
 
-### Description
+### Description:
 
 A custom game map created using the game's built-in map editor.
 
-### Map Layout
+### Map Layout:
 1) A lush starting area with [berry patches](https://timberborn.wiki.gg/wiki/Berries){:target="_blank"} for plentiful food, nearby trees for construction and a river for [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"}.
 
 2) A deep water reservoir thats easy to dam. Surrounded by a bounty of berries and trees for construction [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts.
@@ -58,14 +58,14 @@ Both islands have:
 - Mid-game opportunity to harvest scrap metal from ruins for metal production.
 - An entrance to [underground ruins](https://timberborn.wiki.gg/wiki/Underground_Ruins){:target="_blank"} for a late game scrap metal mine.
 
-### The Challenge
+### The Challenge:
 - This is a map that flips the [typical scenario](https://timberborn.wiki.gg/wiki/Maps){:target="_blank"} upside down.
  - [Typical maps](https://timberborn.wiki.gg/wiki/Maps){:target="_blank"} are landlocked with a shallow river running through them. Water is your most precious resource.
  - In this map, water is abundant but current for [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"} is scarce.
 	- Water levels drop a bit but remains fairly steady during a drought due to the map's border.
 	- However, when a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} season comes the map is now flooded with [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} that lingers after the season instead of being flushed out increasing toxicity around you and creating challenges areas around coast lines. The map's borders that made droughts easier amplifies [badtides](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}. This is the turning point of the map and when the difficulties becomes clearer.
 
-### Design Choices
+### Design Choices:
 - To build a map different that those on [3rd party sites](https://mod.io/g/timberborn?tags-in=Map){:target="_blank"} or [base game scenarios](https://timberborn.wiki.gg/wiki/Maps){:target="_blank"}.
 - Water is unusually abundant but it becomes a primary antagonist as the maps progresses due to increasing [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} toxicity.
 	- This is a play on "too much of a good thing" and "water, water, everywhere, but not a drop to drink".
