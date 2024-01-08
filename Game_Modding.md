@@ -5,9 +5,11 @@ title: Custom Game Maps
 
 # Game Modding
 
-# Timberborn
+## Timberborn
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
 [Steam Store](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
+
+### Description of Game:
 
 A game about a world in which humans have died out due to climate change, and beavers are now the dominant species. The player aims for a high well-being score by building a town with farms, industry, housing and entertainment without succumbing to the environment, hunger, or thirst.
 
@@ -16,7 +18,9 @@ Timberborn’s game loop involves seasons that alternate between temperate weath
 - In a drought, water stops flowing from sources and water on the map starts receding and crops wither.
 - In a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}, water sources start pumping [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} (toxic waste) which kills plants and makes your beavers sick on contact.
 
-## Red Tide Islands
+## Mods
+
+### Red Tide Islands
 
 ![Red_Tide_Island](assets/images/screenshots/Red_Tide_Island.PNG)
 
