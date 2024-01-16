@@ -24,18 +24,21 @@ A game about a block based world where the player explores, collecting resources
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/CC-Mine){:target="_blank"}
 [Github Repository](https://github.com/Fenris42/CC-Mine){:target="_blank"}
 
-### Description
+### Description:
 
-A script for Minecraft mod [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked){:target="_blank"} a fork and continuation of the popular mod [ComputerCraft](https://www.curseforge.com/minecraft/mc-mods/computercraft){:target="_blank"} to enable automated mining using [mining turtles](https://www.computercraft.info/wiki/Turtle){:target="_blank"}.
+A script for for Minecraft mod [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked){:target="_blank"} a fork and continuation of the popular mod [ComputerCraft](https://www.curseforge.com/minecraft/mc-mods/computercraft){:target="_blank"}.
 
-Early game mining in Minecraft can be quite tedious so I wrote a script to have [mining turtles](https://www.computercraft.info/wiki/Turtle){:target="_blank"} do the work for me.
+CC: Tweaked allows use of [turtles](https://www.computercraft.info/wiki/Turtle){:target="_blank"} which are programmable robots. Scripts written in Lua, utilizing the [CC: Tweaked API](https://tweaked.cc/module/turtle.html){:target="_blank"} can perform a wide variety of tedious tasks. In this case, mining.
 
 ### Features:
-- Mines in a 3x3 pattern
+- Mines in a 3x3 block pattern
 - Ore blocks on tunnel walls are opportunistically mined
-- Places torch every 10 blocks
-- Flooding detection
-- Configurable junk filtering from inventory
+	- Turtle scans the walls as it mines and anything with ore in its name will be mined as it passes by
+- Places a torch every 10 blocks
+- Floor and wall patching when required using cobblestone
+- Flooding detection in case you tunnel into a body of water or lava
+	- Turtle will move back and block the tunnel off to contain flooding using cobblestone
+- Configurable junk filtering from inventory so you only bring back what you want
 - Return to start position when inventory is full, out of fuel or tunnel flooding detected
 
 ---
