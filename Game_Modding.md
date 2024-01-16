@@ -6,7 +6,7 @@ title: Custom Game Maps
 # Game Modding
 
 ## Minecraft
-
+---
 ![Minecraft](assets/images/screenshots/Minecraft.png)
 
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://www.minecraft.net/en-us/about-minecraft){:target="_blank"}
@@ -44,7 +44,7 @@ CC: Tweaked allows use of [turtles](https://www.computercraft.info/wiki/Turtle){
 ---
 
 ## Timberborn
-
+---
 ![Timberborn](assets/images/screenshots/timberborn.jpg)
 
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
