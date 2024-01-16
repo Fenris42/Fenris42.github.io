@@ -5,7 +5,45 @@ title: Custom Game Maps
 
 # Game Modding
 
+## Minecraft
+
+![Minecraft](assets/images/screenshots/Minecraft.png)
+
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://www.minecraft.net/en-us/about-minecraft){:target="_blank"}
+[Minecraft.net](https://www.minecraft.net/en-us/about-minecraft){:target="_blank"}
+
+### Description of Game:
+
+A game about a block based world where the player explores, collecting resources, crafting items and builds a variety of structures and machines.
+
+
+## CC Mine
+
+![CC Mine](assets/images/screenshots/CC_Mine.png)
+
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/CC-Mine){:target="_blank"}
+[Github Repository](https://github.com/Fenris42/CC-Mine){:target="_blank"}
+
+### Description
+
+A script for Minecraft mod [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked){:target="_blank"} a fork and continuation of the popular mod [ComputerCraft](https://www.curseforge.com/minecraft/mc-mods/computercraft){:target="_blank"} to enable automated mining using [mining turtles](https://www.computercraft.info/wiki/Turtle){:target="_blank"}.
+
+Early game mining in Minecraft can be quite tedious so I wrote a script to have [mining turtles](https://www.computercraft.info/wiki/Turtle){:target="_blank"} do the work for me.
+
+### Features:
+- Mines in a 3x3 pattern
+- Ore blocks on tunnel walls are opportunistically mined
+- Places torch every 10 blocks
+- Flooding detection
+- Configurable junk filtering from inventory
+- Return to start position when inventory is full, out of fuel or tunnel flooding detected
+
+---
+
 ## Timberborn
+
+![Timberborn](assets/images/screenshots/timberborn.jpg)
+
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
 [Steam Store](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
 
