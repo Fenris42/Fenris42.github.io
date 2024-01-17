@@ -44,6 +44,7 @@ CC: Tweaked adds to Minecraft basic [computers](https://www.computercraft.info/w
 	- This resulted in having to go down a tunnel to retrieve the turtle after completion.
 	- Turtle did not stop if inventory full and would leave items on the ground.
 	- Inventory would be mostly junk blocks like cobblestone and little ore.
+	- Tunnel would be dark and full of monsters.
 	
 - Originally built to be a simple 3x3 miner and return home when inventory full, but added additional functionality and improvements as time went on.
 	- Added auto torching to light up the tunnel and prevent monster spawns.
