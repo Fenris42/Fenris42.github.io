@@ -67,7 +67,7 @@ CC: Tweaked adds to Minecraft basic [computers](https://www.computercraft.info/w
 	
 ### Retrospective:
 - This was a very fun project and will definitely write another turtle script in the future.
-- Scope creep happened for sure as development and testing went on. But I didn't want this script to have the same left wanting feelings as I did about the default tunnel program that lead me to write this in the first place.
+- Scope creep happened for sure as development and testing went on. But I didn't want this script to have the same left wanting feelings as I did about the default tunnel program.
 - In the end I felt quite confident in what I had made and reworked it to be cleaner and configurable so I could share this code with others.
 
 ---
