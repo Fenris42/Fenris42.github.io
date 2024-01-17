@@ -57,7 +57,7 @@ CC: Tweaked adds basic [computers](https://www.computercraft.info/wiki/Computer)
 		- Later made a user customizable dynamic list.
 	- Flood detection in case the turtle mines into a water or lava pocket.
 		- The turtle will move back 3 blocks then build a wall to contain the leak.
-	-Various checks for when the turtle was done, including:
+	- Various checks for when the turtle was done, including:
 		- Enough fuel on board to continue mining or to return home safely.
 		- Flood detection.
 		- Inventory full.
