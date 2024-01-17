@@ -24,4 +24,4 @@ layout: default
 </section>
 
 # Bio
-IT systems engineer with a love of technology specializing in SaaS products, automation and programming. As an avid gamer, I have recently started a new adventure into game development using and expanding on my existing skill set.
+IT systems engineer with a love of technology specializing in SaaS products, automation, and programming. I’m also an avid gamer, and I have recently begun to venture into game development in order to hone and expand my skill set.

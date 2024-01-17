@@ -12,7 +12,7 @@ title: Custom Game Maps
 
 ### Description of Game:
 
-A game about a block based world where the player explores, collects resources, crafts items and builds a variety of structures and machines.
+A game where the player collects resources and crafts a variety of items, structures and machines while exploring a block-based world. 
 
 ## CC Mine
 
@@ -23,50 +23,50 @@ A game about a block based world where the player explores, collects resources, 
 
 ### Description:
 
-A script for Minecraft mod [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked){:target="_blank"} a fork and continuation of the popular mod [ComputerCraft](https://www.curseforge.com/minecraft/mc-mods/computercraft){:target="_blank"}.
+A script for Minecraft mod [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked){:target="_blank"} a fork  of the popular mod [ComputerCraft](https://www.curseforge.com/minecraft/mc-mods/computercraft){:target="_blank"}.
 
-CC: Tweaked adds to Minecraft basic [computers](https://www.computercraft.info/wiki/Computer){:target="_blank"} for programming and [turtles](https://www.computercraft.info/wiki/Turtle){:target="_blank"} which are programmable robots. Scripts written in Lua, utilizing the [CC: Tweaked API](https://tweaked.cc/module/turtle.html){:target="_blank"} can perform a wide variety of tasks. In this case, mining.
+CC: Tweaked adds basic [computers](https://www.computercraft.info/wiki/Computer){:target="_blank"} for programming, as well as [turtles](https://www.computercraft.info/wiki/Turtle){:target="_blank"} which are programmable robots, to the game. Scripts written in Lua, utilizing the [CC: Tweaked API](https://tweaked.cc/module/turtle.html){:target="_blank"} can perform a wide variety of tasks. In this case, mining.
 
 ### Features:
 - Mines in a 3x3 block pattern.
 - Ore blocks on tunnel walls are opportunistically mined.
-	- Turtle scans the walls as it mines the main tunnel and anything with ore in its name will be mined as it passes by.
+	- Turtle scans the walls as it moves through the main tunnel, mining anything with “ore” in its name.
 - Places a torch every 10 blocks.
 - Floor and wall patching when required using cobblestone.
 - Flooding detection in case you tunnel into a body of water or lava.
-	- Turtle will move back and block the tunnel off to contain flooding using cobblestone.
+	- Turtle will move back and block the tunnel off using cobblestone to contain flooding.
 	- If tunnel is above liquid level, a bridge will be created instead.
 - Configurable junk filtering from inventory so you only bring back what you want.
-- Return to start position when inventory is full, out of fuel or tunnel flooding detected.
+- Returns to start position when inventory is full, out of fuel or tunnel flooding detected.
 
 ### Design Choices:
-- Default tunnel program dug a 3x2 tunnel of a length input at start and did not return.
-	- This resulted in having to go down a tunnel to retrieve the turtle after completion.
-	- Turtle did not stop if inventory full and would leave items on the ground.
+- Default tunnel program was very basic and was insufficient for my needs.
+	- Tunnel was dug to a length input at start and did not return.
+	- Completion resulted in having to go down a tunnel to retrieve the turtle.
+	- The turtle did not stop if its inventory was full and would leave items on the ground.
 	- Inventory would be mostly junk blocks like cobblestone and little ore.
-	- Tunnel would be dark and full of monsters.
+	- The tunnel would be dark and full of monsters.
 	
-- Originally built to be a simple 3x3 miner and return home when inventory full, but added additional functionality and improvements as time went on.
-	- Added auto torching to light up the tunnel and prevent monster spawns.
-	- Added patching of floor with cobblestone for easy traversal.
-	- Added patching of walls when there was no block to place torch on.
-		- Later improved even more to replace a gravity block like gravel with cobble first to prevent torch falling off wall if block under it was mined.
-	- Wrote enhanced dig function to continually dig and check until area was clear. This solved issues of digging into gravity blocks like gravel or sand.
-	- Added a junk filter to empty inventory of blocks like cobblestone when inventory was full then continue mining.
+- I added the following functionality:
+	- Auto torching to light up the tunnel and prevent monster spawns.
+	- Patching of floor with cobblestone for easy traversal.
+	- Patching of the walls when there was no block to place a torch on.
+		- Later further improved to replace a gravity block like gravel with cobble first to prevent the torch falling off the wall if the block under it was mined.
+	- Wrote enhanced dig function to continually dig and check until area was clear. This solved an issue where the turtle was digging into gravity blocks like gravel or sand.
+	- A junk filter to drop blocks like cobblestone when inventory was full, then continue mining.
 		- Later made a user customizable dynamic list.
-	- Added flood detection in case turtle mines into a water or lava pocket.
-		- Turtle will move back 3 blocks then build a wall to contain the leak.
-	- Added various checks for when the turtle was done mining including:
-		- Enough fuel in inventory to continue mining or to return home safely.
+	- Flood detection in case the turtle mines into a water or lava pocket.
+		- The turtle will move back 3 blocks then build a wall to contain the leak.
+	-Various checks for when the turtle was done, including:
+		- Enough fuel on board to continue mining or to return home safely.
 		- Flood detection.
 		- Inventory full.
-	- A report displayed on return about why tunneling was finished.
-	
+	- A report displayed on return that shows why the tunneling was finished.
 	
 ### Retrospective:
-- This was a very fun project and will definitely write another turtle script in the future.
-- Scope creep happened for sure as development and testing went on. But I didn't want this script to have the same left wanting feelings as I did about the default tunnel program.
-- In the end I felt quite confident in what I had made and reworked it to be cleaner and configurable so I could share this code with others.
+- This was a very fun project and I will definitely write another turtle script in the future.
+- I definitely experienced scope creep as development and testing went on, but I didn’t want this script to give me the same feeling of dissatisfaction that the default tunnel program left me with.
+- In the end, I felt quite confident in what I had made. What was intended to be a personal program, I could now share with others. 
 
 ---
 
@@ -77,13 +77,12 @@ CC: Tweaked adds to Minecraft basic [computers](https://www.computercraft.info/w
 
 ### Description of Game:
 
-A game about a world in which humans have died out due to climate change, and beavers are now the dominant species. The player aims for a high well-being score by building a town with farms, industry, housing and entertainment without succumbing to the environment, hunger, or thirst.
+A game about a world in which humans have died out due to climate change, and beavers are now the dominant species. The player aims for a high well-being score by building a town with farms, industry, housing and entertainment without succumbing to the environmental hazards, hunger or thirst.
 
 Timberborn’s game loop involves seasons that alternate between temperate weather and either drought or [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}.
 - In temperate weather, water flows from sources and everything is in bloom.
-- In a drought, water stops flowing from sources and water on the map starts receding and crops wither.
-- In a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}, water sources start pumping [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} (toxic waste) which kills plants and makes your beavers sick on contact.
-
+- During a drought, water stops flowing from sources. Water on the map starts receding and crops wither.
+- During a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}, water sources start pumping [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} (toxic waste), which kills plants and makes your beavers sick on contact.
 
 ## Red Tide Islands
 
@@ -99,12 +98,12 @@ A custom game map created using the game's built-in map editor.
 ### Map Layout:
 1) A lush starting area with [berry patches](https://timberborn.wiki.gg/wiki/Berries){:target="_blank"} for plentiful food, nearby trees for construction and a river for [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"}.
 
-2) A deep water reservoir thats easy to dam. Surrounded by a bounty of berries and trees for construction [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts.
-- However, [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} (11) will start creeping towards the intake increasing water toxicity. This presents a gentle challenge for the player to overcome and encouranges them to start thinking about this map's meta.
+2) A deep water reservoir that's easy to dam. Surrounded by a bounty of berries and trees for construction [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts.
+- However, [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} (11) will start creeping towards the intake, increasing water toxicity. This presents a gentle challenge for the player to overcome and encourages them to start thinking about this map’s meta.
 
 3) A short river to build industry and [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"} for power.
 
-4) An easy area to expand to for a early game farms, to be later replaced by industry.
+4) An easy area to expand to for early game farms, to be later replaced by industry.
 
 5/6)  Nearby islands easy to expand to. These islands were made with farming in mind, with their dammable water sources for [irrigation](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} and easy to clear foliage.
 
@@ -117,7 +116,7 @@ Both islands have:
 - Abundant trees for construction.
 
 9) An island to expand to from island (1) with the purpose of forestry in mind. Trees are harder to clear but provide more wood than normal trees.
-- A moon shaped bay can be dammed but will be more challenging than other islands. The island's abundant trees will make local construction easier.
+- The moon shaped bay can be dammed but it will be more challenging than other islands. The island's abundant trees will make local construction easier.
 
 10) An old human outpost now in ruins.
 - [Badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} source to contain and harvest.
@@ -125,23 +124,23 @@ Both islands have:
 - An entrance to [underground ruins](https://timberborn.wiki.gg/wiki/Underground_Ruins){:target="_blank"} for a late game scrap metal mine.
 
 ### The Challenge:
-- This is a map that flips the [typical scenario](https://timberborn.wiki.gg/wiki/Maps){:target="_blank"} upside down.
- - [Typical maps](https://timberborn.wiki.gg/wiki/Maps){:target="_blank"} are landlocked with a shallow river running through them. Water is your most precious resource.
- - In this map, water is abundant but current for [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"} is scarce.
-	- Water levels drop a bit but remains fairly steady during a drought due to the map's border.
-	- However, when a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} season comes the map is now flooded with [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} that lingers after the season instead of being flushed out increasing toxicity around you and creating challenges areas around coast lines. The map's borders that made droughts easier amplifies [badtides](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"}. This is the turning point of the map and when the difficulties becomes clearer.
+- This is a map that flips the [typical scenario](https://timberborn.wiki.gg/wiki/Maps){:target="_blank"} upside down. [Typical maps](https://timberborn.wiki.gg/wiki/Maps){:target="_blank"} are landlocked with a shallow river running through them. Water is your most precious resource.
+- In this map, water is abundant but current for [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"} is scarce.
+- Water levels drop a bit but remain fairly steady during a drought due to the map’s border.
+- However, because of these borders, a [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} now floods the map with [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} that lingers after the season, increasing toxicity and creating challenge areas around coastlines.
+	- This is the turning point of the map and when the difficulties becomes clearer.
 
 ### Design Choices:
-- To build a map different that those on [3rd party sites](https://mod.io/g/timberborn?tags-in=Map){:target="_blank"} or [base game scenarios](https://timberborn.wiki.gg/wiki/Maps){:target="_blank"}.
-- Water is unusually abundant but it becomes a primary antagonist as the maps progresses due to increasing [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} toxicity.
-	- This is a play on "too much of a good thing" and "water, water, everywhere, but not a drop to drink".
+- To build a map different from those on [third party sites](https://mod.io/g/timberborn?tags-in=Map){:target="_blank"} or [base game scenarios](https://timberborn.wiki.gg/wiki/Maps){:target="_blank"}.
+- Water is unusually abundant but it becomes a primary antagonist as the map progresses, due to increasing [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} toxicity.
+	- This is a play on “too much of a good thing” and “water, water, everywhere, but not a drop to drink’”
 
 - Progression:
 	- Early Game:
 		- Abundant resources and flat build spots.
 	- Mid Game:
 		- Incentivizing expansion to islands near your central [district](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"} while pushing the travel distance limits.
-		- Players will experience their first [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} and discover this map isn't as easy as they thought. A whole new problem will be revealed when the [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} doesn't dissipate easily.
+		- Players will experience their first [badtide](https://timberborn.wiki.gg/wiki/Weather#Badtide){:target="_blank"} and discover that this map isn't as easy as they thought. A whole new problem will be revealed when the [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} doesn't dissipate easily.
 	- Late Game:
 		- Multiple [districts](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"} are required due to shortage of land and long travel distances between them.
 		- [Districts](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"} and [trade](https://timberborn.wiki.gg/wiki/District_Crossing){:target="_blank"} will be needed between the islands.

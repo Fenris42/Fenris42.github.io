@@ -37,10 +37,11 @@ A 2D asteroid mining game. Mine resources while maintaining life support and def
 
 - Take off and land on asteroid from your parent ship in orbit
 - Asteroid selection from map screen
-- A space station hub for you to upgrade your gear, upgrade your ship, sell loot and get quests from
 - Gear upgrades
 - Ship upgrades
+- A space station hub where you can upgrade your gear and your ship, sell loot and receive quests
 - Pirate enemies to encounter on your travels
+
 
 ---
 
@@ -74,12 +75,12 @@ A top-down dungeon crawler RPG inspired by [Cult of the Lamb.](https://store.ste
 
 ### Retrospective:
 
-- Had a hard time finding the fun and direction of the game.
-- Team was initially excited about the project but in reality didn't have enough time to dedicate it. Initially scoped as a team effort, project was shelved primarily because of this factor.
+- We had a hard time finding the fun and direction of the game.
+- The team was initially excited about the project but in reality didn’t have enough time to dedicate to it. This was the main factor behind the project being shelved, since it had been scoped as a team effort.
 - Top-down added more directions of travel and more freedom of design, but it increased programming complexity more than initially thought.
-- Asset store had limited selection of art for this camera angle.
+- The Unity asset store had a limited selection of art for this camera angle.
 - Assets required more sprites and animations to cover front and back directions.
-- Camera angle made perspectives difficult to manage. For example doors on the left, right and bottom of screen didn't look right.
+- Camera angle made perspectives difficult to manage. For example, doors on the left, right and bottom of the screen didn’t look right.
 
 ---
 
@@ -95,7 +96,7 @@ A top-down dungeon crawler RPG inspired by [Cult of the Lamb.](https://store.ste
 
 ### Description:
 
-A tower defense game inspired by [Plants vs Zombies.](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/){:target="_blank"} Control an archer on the castle wall directly and shoot on coming enemies.
+A tower defense game inspired by [Plants vs Zombies.](https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/){:target="_blank"} Control an archer on the castle wall and shoot oncoming enemies.
 
 ### Goals:
 
@@ -115,11 +116,11 @@ A tower defense game inspired by [Plants vs Zombies.](https://store.steampowered
 
 ### Retrospective:
 
-- Game shelved due to lack of team alignment over direction.
-- Game based on an older genre of games that may not be populuar in todays market. However this style of game seemed accomplishable with simple AI, player movement and reuse of characters and levels.
-- Difficulty scaling due to a lack of foresight at my current programming skill level. Code quickly became duplicated and segmented into multiple code bases and made changes time consuming.
-- Sharpened team collaboration and communication skills.
-- Used Github to distribute updates and get quick feedback after implementing each feature in order to save time and effort if changes where needed.
+- The game was shelved due to a lack of team alignment over direction.
+- While the game seemed achievable thanks to simple AI, player movement, and reuse of characters and levels, it was in an older, relatively unpopular genre.
+- A lack of foresight caused by my programming inexperience at the time made scaling difficult. Code quickly became duplicated and segmented into multiple code bases, which made changes time consuming.
+- I sharpened my team collaboration and communication skills.
+- I used Github to distribute updates and get quick feedback after implementing each feature, in order to save time and effort if changes were needed.
 
 ---
 
@@ -135,7 +136,7 @@ A tower defense game inspired by [Plants vs Zombies.](https://store.steampowered
 
 ### Description:
 
-My first independent project where I was prototyping in a sandbox style by implementing a variety of common game systems in preparation to start a real attempt at making a game. This was to allow myself to make mistakes and a mess care free in order to learn how to better implement them in the future while getting more familiar with game development.
+My first independent project. I gave myself an introduction to game development by prototyping a project in which I implemented a variety of common game systems. I did so in a sandbox environment, which allowed me to experiment freely.
 
 ### Goals:
 
@@ -145,7 +146,7 @@ My first independent project where I was prototyping in a sandbox style by imple
 
 ![Check](assets/images/icons/check.png){:class="icon"} Basic combat system (melee/ranged)
 
-![Check](assets/images/icons/check.png){:class="icon"} Basic Mobs with simple AI and attack
+![Check](assets/images/icons/check.png){:class="icon"} Basic mobs with simple AI and attack
 
 ![Check](assets/images/icons/check.png){:class="icon"} Collision detection
 
@@ -155,8 +156,8 @@ My first independent project where I was prototyping in a sandbox style by imple
 
 ### Retrospective:
 
-- Successfully implemented a variety of systems on my own.
-- Learned a great deal about game programming and identified areas of strengths and areas in need of improvement.
+- I successfully taught myself how to implement a variety of systems.
+- I learned a great deal about game programming and identified areas of strengths and areas in need of improvement.
 
 ---
 
