@@ -48,13 +48,13 @@ CC: Tweaked adds to Minecraft basic [computers](https://www.computercraft.info/w
 	
 - Originally built to be a simple 3x3 miner and return home when inventory full, but added additional functionality and improvements as time went on.
 	- Added auto torching to light up the tunnel and prevent monster spawns.
-	- Added auto patching of floor with cobblestone for easy traversal.
+	- Added patching of floor with cobblestone for easy traversal.
 	- Added patching of walls when there was no block to place torch on.
 		- Later improved even more to replace a gravity block like gravel with cobble first to prevent torch falling off wall if block under it was mined.
 	- Wrote enhanced dig function to continually dig and check until area was clear. This solved issues of digging into gravity blocks like gravel or sand.
 	- Added a junk filter to empty inventory of blocks like cobblestone when inventory was full then continue mining.
 		- Later made a user customizable dynamic list.
-	- Added a flood detection in case turtle mines into a water or lava pocket.
+	- Added flood detection in case turtle mines into a water or lava pocket.
 		- Turtle will move back 3 blocks then build a wall to contain the leak.
 	- Added various checks for when the turtle was done mining including:
 		- Enough fuel in inventory to continue mining or to return home safely.
