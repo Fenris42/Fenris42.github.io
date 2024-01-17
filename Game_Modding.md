@@ -12,7 +12,7 @@ title: Custom Game Maps
 
 ### Description of Game:
 
-A game about a block based world where the player explores, collecting resources, crafting items and builds a variety of structures and machines.
+A game about a block based world where the player explores, collects resources, crafts items and builds a variety of structures and machines.
 
 
 ## CC Mine
