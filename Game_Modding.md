@@ -5,9 +5,7 @@ title: Custom Game Maps
 
 # Game Modding
 
-## Minecraft
----
-![Minecraft](assets/images/screenshots/Minecraft.png)
+![Minecraft](assets/images/screenshots/minecraft.jpg)
 
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://www.minecraft.net/en-us/about-minecraft){:target="_blank"}
 [Minecraft.net](https://www.minecraft.net/en-us/about-minecraft){:target="_blank"}
@@ -71,8 +69,7 @@ CC: Tweaked adds to Minecraft basic [computers](https://www.computercraft.info/w
 - In the end I felt quite confident in what I had made and reworked it to be cleaner and configurable so I could share this code with others.
 
 ---
-## Timberborn
----
+
 ![Timberborn](assets/images/screenshots/timberborn.jpg)
 
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
