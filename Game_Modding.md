@@ -28,19 +28,47 @@ A game about a block based world where the player explores, collecting resources
 
 A script for Minecraft mod [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked){:target="_blank"} a fork and continuation of the popular mod [ComputerCraft](https://www.curseforge.com/minecraft/mc-mods/computercraft){:target="_blank"}.
 
-CC: Tweaked adds basic [computers](https://www.computercraft.info/wiki/Computer){:target="_blank"} and [turtles](https://www.computercraft.info/wiki/Turtle){:target="_blank"} which are programmable robots. Scripts written in Lua, utilizing the [CC: Tweaked API](https://tweaked.cc/module/turtle.html){:target="_blank"} can perform a wide variety of tedious tasks. In this case, mining.
+CC: Tweaked adds to Minecraft basic [computers](https://www.computercraft.info/wiki/Computer){:target="_blank"} for programming and [turtles](https://www.computercraft.info/wiki/Turtle){:target="_blank"} which are programmable robots. Scripts written in Lua, utilizing the [CC: Tweaked API](https://tweaked.cc/module/turtle.html){:target="_blank"} can perform a wide variety of tasks. In this case, mining.
 
 ### Features:
-- Mines in a 3x3 block pattern
-- Ore blocks on tunnel walls are opportunistically mined
-	- Turtle scans the walls as it mines the main tunnel and anything with ore in its name will be mined as it passes by
-- Places a torch every 10 blocks
-- Floor and wall patching when required using cobblestone
-- Flooding detection in case you tunnel into a body of water or lava
-	- Turtle will move back and block the tunnel off to contain flooding using cobblestone
-	- If tunnel is above liquid level, a bridge will be created instead
-- Configurable junk filtering from inventory so you only bring back what you want
-- Return to start position when inventory is full, out of fuel or tunnel flooding detected
+- Mines in a 3x3 block pattern.
+- Ore blocks on tunnel walls are opportunistically mined.
+	- Turtle scans the walls as it mines the main tunnel and anything with ore in its name will be mined as it passes by.
+- Places a torch every 10 blocks.
+- Floor and wall patching when required using cobblestone.
+- Flooding detection in case you tunnel into a body of water or lava.
+	- Turtle will move back and block the tunnel off to contain flooding using cobblestone.
+	- If tunnel is above liquid level, a bridge will be created instead.
+- Configurable junk filtering from inventory so you only bring back what you want.
+- Return to start position when inventory is full, out of fuel or tunnel flooding detected.
+
+### Design Choices:
+- Default tunnel program dug a 3x2 tunnel of a length input at start and did not return.
+	- This resulted in having to go down a tunnel to retrieve the turtle after completion.
+	- Turtle did not stop if inventory full and would leave items on the ground.
+	- Inventory would be mostly junk blocks like cobblestone and little ore.
+	
+- Originally built to be a simple 3x3 miner and return home when inventory full, but added additional functionality and improvements as time went on.
+	- Added auto torching to light up the tunnel and prevent monster spawns.
+	- Added auto patching of floor with cobblestone for easy traversal.
+	- Added patching of walls when there was no block to place torch on.
+		- Later improved even more to replace a gravity block like gravel with cobble first to prevent torch falling off wall if block under it was mined.
+	- Wrote enhanced dig function to continually dig and check until area was clear. This solved issues of digging into gravity blocks like gravel or sand.
+	- Added a junk filter to empty inventory of blocks like cobblestone when inventory was full then continue mining.
+		- Later made a user customizable dynamic list.
+	- Added a flood detection in case turtle mining into a water or lava pocket.
+		- Turtle will move back 3 blocks then build a wall to contain the leak.
+	- Added various checks for when the turtle was done including:
+		- Enough fuel on board to continue mining or to return home safely.
+		- Flood detection.
+		- Inventory full.
+	- A report displayed on return about why tunneling was finished.
+	
+	
+### Retrospective
+- This was a very fun project and will definitely write another turtle script in the future.
+- Scope creep happened for sure as development and testing went on. But I didn't want this script to have the same left wanting feelings as I did about the default tunnel program that lead me to write this in the first place.
+- In the end I felt quite confident in what I had made and reworked it to be cleaner and configurable so I could share this code with others.
 
 ---
 ## Timberborn
