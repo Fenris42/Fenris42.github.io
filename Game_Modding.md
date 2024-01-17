@@ -14,7 +14,6 @@ title: Custom Game Maps
 
 A game about a block based world where the player explores, collects resources, crafts items and builds a variety of structures and machines.
 
-
 ## CC Mine
 
 ![CC Mine](assets/images/screenshots/CC_Mine.png)
@@ -54,7 +53,7 @@ CC: Tweaked adds to Minecraft basic [computers](https://www.computercraft.info/w
 	- Wrote enhanced dig function to continually dig and check until area was clear. This solved issues of digging into gravity blocks like gravel or sand.
 	- Added a junk filter to empty inventory of blocks like cobblestone when inventory was full then continue mining.
 		- Later made a user customizable dynamic list.
-	- Added a flood detection in case turtle mining into a water or lava pocket.
+	- Added a flood detection in case turtle mines into a water or lava pocket.
 		- Turtle will move back 3 blocks then build a wall to contain the leak.
 	- Added various checks for when the turtle was done including:
 		- Enough fuel on board to continue mining or to return home safely.
