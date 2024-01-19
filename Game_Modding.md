@@ -29,7 +29,7 @@ CC: Tweaked adds basic [computers](https://www.computercraft.info/wiki/Computer)
 
 ### Features:
 - Mines in a 3x3 block pattern.
-- Ore blocks on tunnel walls are opportunistically mined.
+- Ore blocks on tunnel walls are also mined.
 	- Turtle scans the walls as it moves through the main tunnel, mining anything with “ore” in its name.
 - Places a torch every 10 blocks.
 - Floor and wall patching when required using cobblestone.
@@ -43,7 +43,7 @@ CC: Tweaked adds basic [computers](https://www.computercraft.info/wiki/Computer)
 - Default tunnel program was very basic and was insufficient for my needs.
 	- Tunnel was dug to a length input at start and did not return.
 	- Completion resulted in having to go down a tunnel to retrieve the turtle.
-	- The turtle did not stop if its inventory was full and would leave items on the ground.
+	- The turtle did not stop if its inventory was full, and anything subsequently mined would be left on the ground.
 	- Inventory would be mostly junk blocks like cobblestone and little ore.
 	- The tunnel would be dark and full of monsters.
 	
@@ -98,7 +98,7 @@ A custom game map created using the game's built-in map editor.
 ### Map Layout:
 1) A lush starting area with [berry patches](https://timberborn.wiki.gg/wiki/Berries){:target="_blank"} for plentiful food, nearby trees for construction and a river for [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"}.
 
-2) A deep water reservoir that's easy to dam. Surrounded by a bounty of berries and trees for construction [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts.
+2) A deep water reservoir that's easy to dam. The dam keeps the surrounding bounty of berries and trees for construction [irrigated](https://timberborn.wiki.gg/wiki/Fluids#Irrigation){:target="_blank"} through early droughts.
 - However, [badwater](https://timberborn.wiki.gg/wiki/Badwater){:target="_blank"} (11) will start creeping towards the intake, increasing water toxicity. This presents a gentle challenge for the player to overcome and encourages them to start thinking about this map’s meta.
 
 3) A short river to build industry and [water wheels](https://timberborn.wiki.gg/wiki/Water_Wheel){:target="_blank"} for power.
@@ -144,4 +144,4 @@ Both islands have:
 	- Late Game:
 		- Multiple [districts](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"} are required due to shortage of land and long travel distances between them.
 		- [Districts](https://timberborn.wiki.gg/wiki/Districts){:target="_blank"} and [trade](https://timberborn.wiki.gg/wiki/District_Crossing){:target="_blank"} will be needed between the islands.
-		- Water toxicity is quite high and solutions need to be implemented to protect anything on a coast line or near a water source.
+		- Water toxicity is quite high and solutions need to be implemented to protect anything on a coastline or near a water source.

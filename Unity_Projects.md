@@ -76,7 +76,7 @@ A top-down dungeon crawler RPG inspired by [Cult of the Lamb.](https://store.ste
 ### Retrospective:
 
 - We had a hard time finding the fun and direction of the game.
-- The team was initially excited about the project but in reality didn’t have enough time to dedicate to it. This was the main factor behind the project being shelved, since it had been scoped as a team effort.
+- The team was initially excited about the project, but in reality didn’t have enough time to dedicate to it. This was the main factor behind the project being shelved, since it had been scoped as a team effort.
 - Top-down added more directions of travel and more freedom of design, but it increased programming complexity more than initially thought.
 - The Unity asset store had a limited selection of art for this camera angle.
 - Assets required more sprites and animations to cover front and back directions.
@@ -100,7 +100,7 @@ A tower defense game inspired by [Plants vs Zombies.](https://store.steampowered
 
 ### Goals:
 
-![Check](assets/images/icons/check.png){:class="icon"} First attempt at creating a game not from a tutorial or template
+![Check](assets/images/icons/check.png){:class="icon"} First attempt at creating a game without a tutorial or template
 
 ![Check](assets/images/icons/check.png){:class="icon"} Multiple scenes
 
@@ -120,7 +120,7 @@ A tower defense game inspired by [Plants vs Zombies.](https://store.steampowered
 - While the game seemed achievable thanks to simple AI, player movement, and reuse of characters and levels, it was in an older, relatively unpopular genre.
 - A lack of foresight caused by my programming inexperience at the time made scaling difficult. Code quickly became duplicated and segmented into multiple code bases, which made changes time consuming.
 - I sharpened my team collaboration and communication skills.
-- I used Github to distribute updates and get quick feedback after implementing each feature, in order to save time and effort if changes were needed.
+- I used Github to distribute updates and get quick feedback after implementing each feature, to save time and effort if changes were needed.
 
 ---
 
