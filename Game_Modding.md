@@ -94,16 +94,16 @@ Recipe is written in a combination of Javascript and JSON, injected using the mo
 
 ### Alternate Big Reactors / Extreme Reactors (BER) Recipe Path:
 
-**(BER) [Reactor:}(https://ftbwiki.org/Big_Reactors){:target="_blank"}** (BER) [Yellorium Ingot](https://ftbwiki.org/Yellorium_Ingot){:target="_blank"} -> (BER) [Cyanite Ingot](https://ftbwiki.org/Cyanite_Ingot){:target="_blank"}
+**(BER) [Reactor:](https://ftbwiki.org/Big_Reactors){:target="_blank"}** (BER) [Yellorium Ingot](https://ftbwiki.org/Yellorium_Ingot){:target="_blank"} -> (BER) [Cyanite Ingot](https://ftbwiki.org/Cyanite_Ingot){:target="_blank"}
 - Fuel is consumed in the reactor and waste product produced
 
 **(BER) Reprocessor:** (BER) [Cyanite Ingot](https://ftbwiki.org/Cyanite_Ingot){:target="_blank"} -> (BER) [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"}
 - Reactor waste product is processed to equivalent of plutonium 
 
-**(Mek) [Chemical Oxidizer](https://wiki.aidancbrady.com/wiki/Chemical_Oxidizer){:target="_blank"}:** (BER) [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"} -> (Mek) [Plutonium Gas](https://wiki.aidancbrady.com/wiki/Plutonium){:target="_blank"}
+**(Mek) [Chemical Oxidizer:](https://wiki.aidancbrady.com/wiki/Chemical_Oxidizer){:target="_blank"}** (BER) [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"} -> (Mek) [Plutonium Gas](https://wiki.aidancbrady.com/wiki/Plutonium){:target="_blank"}
 - Conversion from Big Reactors / Extreme Reactors occurs at a 1:1 scale using [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"}'s machines
 
-**(Mek) [Isotropic Centrifuge](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"}:** (Mek) [Plutonium Gas](https://wiki.aidancbrady.com/wiki/Plutonium){:target="_blank"} -> (Mek) [Polonium Gas](https://wiki.aidancbrady.com/wiki/Polonium){:target="_blank"}
+**(Mek) [Isotropic Centrifuge:](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"}** (Mek) [Plutonium Gas](https://wiki.aidancbrady.com/wiki/Plutonium){:target="_blank"} -> (Mek) [Polonium Gas](https://wiki.aidancbrady.com/wiki/Polonium){:target="_blank"}
 - Final processing step to replace Solar Neutron Activator at a 10:1 ratio matching other recipes for both the Solar Neutron Activator and Isotropic Centrifuge
 
 ### Design Choices:
