@@ -70,7 +70,7 @@ CC: Tweaked adds basic [computers](https://www.computercraft.info/wiki/Computer)
 
 ---
 
-## [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} Polonium Alternate Recipe
+## Mekanism Polonium Alternate Recipe
 
 ![Polonium Recipe](assets/images/screenshots/Polonium Recipe.png)
 
@@ -84,26 +84,26 @@ An alternate recipe path for converting [Big Reactors](https://www.curseforge.co
  
 Recipe is written in a combination of Javascript and JSON, injected using the mod [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs){:target="_blank"}.
 
-### Default [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} (Mek) Recipe Path:
+### Default Mekanism (Mek) Recipe Path:
 
-**(Mek) Fission Reactor:** (Mek) Fissile Fuel -> (Mek) Nuclear Waste
+**(Mek) [Fission Reactor:](https://wiki.aidancbrady.com/wiki/Fission_Reactor){:target="_blank"}** (Mek) [Fissile Fuel](https://wiki.aidancbrady.com/wiki/Fissile_Fuel){:target="_blank"} -> (Mek) [Nuclear Waste](https://wiki.aidancbrady.com/wiki/Nuclear_Waste){:target="_blank"}
 - Fuel is consumed in the reactor and waste product produced
 
-**(Mek) Solar Neutron Activator:** (Mek) Nuclear Waste -> (Mek) Polonium Gas
+**(Mek) [Solar Neutron Activator:](https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"}** (Mek) [Nuclear Waste](https://wiki.aidancbrady.com/wiki/Nuclear_Waste){:target="_blank"} -> (Mek) [Polonium Gas](https://wiki.aidancbrady.com/wiki/Polonium){:target="_blank"}
 - Final processing step
 
 ### Alternate Big Reactors / Extreme Reactors (BER) Recipe Path:
 
-**(BER) Reactor:** (BER) Yellorium Ingot -> (BER) Cyanite Ingot
+**(BER) [Reactor:}(https://ftbwiki.org/Big_Reactors){:target="_blank"}** (BER) [Yellorium Ingot](https://ftbwiki.org/Yellorium_Ingot){:target="_blank"} -> (BER) [Cyanite Ingot](https://ftbwiki.org/Cyanite_Ingot){:target="_blank"}
 - Fuel is consumed in the reactor and waste product produced
 
-**(BER) Reprocessor:** (BER) Cyanite Ingot -> (BER) Blutonium Ingot
+**(BER) Reprocessor:** (BER) [Cyanite Ingot](https://ftbwiki.org/Cyanite_Ingot){:target="_blank"} -> (BER) [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"}
 - Reactor waste product is processed to equivalent of plutonium 
 
-**(Mek) Chemical Oxidizer:** (BER) Blutonium Ingot -> (Mek) Plutonium Gas
-- Conversion from Big Reactors / Extreme Reactors occurs at a 1:1 scale using [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"}s machines
+**(Mek) [Chemical Oxidizer](https://wiki.aidancbrady.com/wiki/Chemical_Oxidizer){:target="_blank"}:** (BER) [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"} -> (Mek) [Plutonium Gas](https://wiki.aidancbrady.com/wiki/Plutonium){:target="_blank"}
+- Conversion from Big Reactors / Extreme Reactors occurs at a 1:1 scale using [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"}'s machines
 
-**(Mek) Isotropic Centrifuge:** (Mek) Plutonium Gas -> (Mek) Polonium Gas
+**(Mek) [Isotropic Centrifuge](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"}:** (Mek) [Plutonium Gas](https://wiki.aidancbrady.com/wiki/Plutonium){:target="_blank"} -> (Mek) [Polonium Gas](https://wiki.aidancbrady.com/wiki/Polonium){:target="_blank"}
 - Final processing step to replace Solar Neutron Activator at a 10:1 ratio matching other recipes for both the Solar Neutron Activator and Isotropic Centrifuge
 
 ### Design Choices:
