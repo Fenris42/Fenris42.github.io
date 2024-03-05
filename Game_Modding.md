@@ -87,25 +87,25 @@ Recipe is written in a combination of Javascript and JSON, injected using the mo
 ### Default Mekanism (Mek) Recipe Path:
 
 **(Mek) [Fission Reactor:](https://wiki.aidancbrady.com/wiki/Fission_Reactor){:target="_blank"}** (Mek) [Fissile Fuel](https://wiki.aidancbrady.com/wiki/Fissile_Fuel){:target="_blank"} -> (Mek) [Nuclear Waste](https://wiki.aidancbrady.com/wiki/Nuclear_Waste){:target="_blank"}
-- Fuel is consumed in the reactor and waste product produced
+- Fuel is consumed in the reactor and waste product produced.
 
 **(Mek) [Solar Neutron Activator:](https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"}** (Mek) [Nuclear Waste](https://wiki.aidancbrady.com/wiki/Nuclear_Waste){:target="_blank"} -> (Mek) [Polonium Gas](https://wiki.aidancbrady.com/wiki/Polonium){:target="_blank"}
-- Final processing step
+- Final processing step.
 
 ### Alternate Big Reactors / Extreme Reactors (BER) Recipe Path:
 
 **(BER) [Reactor:](https://ftbwiki.org/Big_Reactors){:target="_blank"}** (BER) [Yellorium Ingot](https://ftbwiki.org/Yellorium_Ingot){:target="_blank"} -> (BER) [Cyanite Ingot](https://ftbwiki.org/Cyanite_Ingot){:target="_blank"}
-- Fuel is consumed in the reactor and waste product produced
+- Fuel is consumed in the reactor and waste product produced.
 
 **(BER) [Reprocessor:](https://ftbwiki.org/Cyanite_Reprocessor){:target="_blank"}** (BER) [Cyanite Ingot](https://ftbwiki.org/Cyanite_Ingot){:target="_blank"} -> (BER) [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"}
-- Reactor waste product is processed to an analog of plutonium 
+- Reactor waste product is processed to an analog of plutonium .
 
 **(Mek) [Chemical Oxidizer:](https://wiki.aidancbrady.com/wiki/Chemical_Oxidizer){:target="_blank"}** (BER) [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"} -> (Mek) [Plutonium Gas](https://wiki.aidancbrady.com/wiki/Plutonium){:target="_blank"}
 - Conversion from [Big Reactors](https://www.curseforge.com/minecraft/mc-mods/big-reactors){:target="_blank"}
- / [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors){:target="_blank"} to [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} occurs at a 1:1 scale using [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"}'s machines
+ / [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors){:target="_blank"} to [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} occurs at a 1:1 scale using [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"}'s machines.
 
 **(Mek) [Isotropic Centrifuge:](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"}** (Mek) [Plutonium Gas](https://wiki.aidancbrady.com/wiki/Plutonium){:target="_blank"} -> (Mek) [Polonium Gas](https://wiki.aidancbrady.com/wiki/Polonium){:target="_blank"}
-- Final processing step to replace [Solar Neutron Activator:](https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} at a 10:1 ratio matching other recipes for both the [Solar Neutron Activator:](https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} and [Isotropic Centrifuge](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"}.
+- Final processing step to replace [Solar Neutron Activator:](https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} at a 10:1 ratio matching other recipes for both the [Solar Neutron Activator](https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} and [Isotropic Centrifuge](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"}.
 
 ### Design Choices:
 
@@ -118,10 +118,10 @@ Recipe is written in a combination of Javascript and JSON, injected using the mo
 
 ### Resolution:
 - Assumptions made:
-	- [Nuclear Waste](https://wiki.aidancbrady.com/wiki/Nuclear_Waste){:target="_blank"} is an [analog for plutonium](https://www.orano.group/en/unpacking-nuclear/all-about-plutonium#:~:text=The%20answer%20is%20simple%3A%20it,239%20transforms%20into%20plutonium%2D239.){:target="_blank"} therefor plutonium converts to polonium
+	- [Nuclear Waste](https://wiki.aidancbrady.com/wiki/Nuclear_Waste){:target="_blank"} is an [analog for plutonium](https://www.orano.group/en/unpacking-nuclear/all-about-plutonium#:~:text=The%20answer%20is%20simple%3A%20it,239%20transforms%20into%20plutonium%2D239.){:target="_blank"} therefor plutonium converts to polonium.
 	- [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"} is an analog for plutonium based on name and processing steps to acquire.
 - Identified 2 equivalent materials (plutonium) from each mod and converted at a 1:1 ratio using a [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} [Chemical Oxidizer](https://wiki.aidancbrady.com/wiki/Chemical_Oxidizer){:target="_blank"} in order to cut over to [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} as soon as possible as well as a device that supported converting a solid item to a gas.
-- Added an additional processing step of using the [Isotropic Centrifuge](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"} to replace the (https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} for consistent production and freedom of placement using a 10:1 ration matching existing recipes for both the (https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} and [Isotropic Centrifuge](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"}. Thematically a centrifuge felt like a fitting machine to use for this processing step.
+- Added an additional processing step of using the [Isotropic Centrifuge](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"} to replace the [Solar Neutron Activator](https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} for consistent production and freedom of placement using a 10:1 ration matching existing recipes for both the [Solar Neutron Activator](https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} and [Isotropic Centrifuge](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"}. Thematically a centrifuge felt like a fitting machine to use for this processing step.
 
 
 ### Retrospective:
