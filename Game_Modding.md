@@ -97,34 +97,35 @@ Recipe is written in a combination of Javascript and JSON, injected using the mo
 **(BER) [Reactor:](https://ftbwiki.org/Big_Reactors){:target="_blank"}** (BER) [Yellorium Ingot](https://ftbwiki.org/Yellorium_Ingot){:target="_blank"} -> (BER) [Cyanite Ingot](https://ftbwiki.org/Cyanite_Ingot){:target="_blank"}
 - Fuel is consumed in the reactor and waste product produced
 
-**(BER) Reprocessor:** (BER) [Cyanite Ingot](https://ftbwiki.org/Cyanite_Ingot){:target="_blank"} -> (BER) [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"}
+**(BER) [Reprocessor:](https://ftbwiki.org/Cyanite_Reprocessor){:target="_blank"}** (BER) [Cyanite Ingot](https://ftbwiki.org/Cyanite_Ingot){:target="_blank"} -> (BER) [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"}
 - Reactor waste product is processed to equivalent of plutonium 
 
 **(Mek) [Chemical Oxidizer:](https://wiki.aidancbrady.com/wiki/Chemical_Oxidizer){:target="_blank"}** (BER) [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"} -> (Mek) [Plutonium Gas](https://wiki.aidancbrady.com/wiki/Plutonium){:target="_blank"}
-- Conversion from Big Reactors / Extreme Reactors occurs at a 1:1 scale using [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"}'s machines
+- Conversion from [Big Reactors](https://www.curseforge.com/minecraft/mc-mods/big-reactors){:target="_blank"}
+ / [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors){:target="_blank"} to [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} occurs at a 1:1 scale using [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"}'s machines
 
 **(Mek) [Isotropic Centrifuge:](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"}** (Mek) [Plutonium Gas](https://wiki.aidancbrady.com/wiki/Plutonium){:target="_blank"} -> (Mek) [Polonium Gas](https://wiki.aidancbrady.com/wiki/Polonium){:target="_blank"}
-- Final processing step to replace Solar Neutron Activator at a 10:1 ratio matching other recipes for both the Solar Neutron Activator and Isotropic Centrifuge
+- Final processing step to replace [Solar Neutron Activator:](https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} at a 10:1 ratio matching other recipes for both the [Solar Neutron Activator:](https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} and [Isotropic Centrifuge:](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"}.
 
 ### Design Choices:
 
 ### Issues:
 - Default [Mekasuit](https://wiki.aidancbrady.com/wiki/Mekasuit){:target="_blank"} recipe assumes use of the [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} [Fission Reactor](https://wiki.aidancbrady.com/wiki/Fission_Reactor){:target="_blank"} for power generation.
-	- In modpacks there are different method of generating power from a variety of mods, not all players will choose this method especially due to risks with radiation and meltdowns.
-	- I like many others use [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors){:target="_blank"} for power generation leaving me in a situation where I have to build a completely separate, complicated and accident prone reactor just to generate some nuclear waste in order to build the Mekasuit.
-- Fissile Fuel is a [complicated process](https://youtu.be/9HjghquMpfA?si=VdZH6u4F8ScBhtIo&t=581){:target="_blank"} just on its own and we are not even at creating the reactor and turbine yet
-- The Solar Neutron Activator is slow, requires being outside and is effected by day/night cycles as well as the biome its placed in
+	- In modpacks there are a variety of different method of generating power from a selection of various mods, not all players will choose [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"}'s method especially due to the complexity, risks with radiation and threat of meltdowns.
+	- I like many other players use [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors){:target="_blank"} for power generation leaving me in a situation where I have to build a completely separate, complicated and accident prone reactor just to generate some [Nuclear Waste](https://wiki.aidancbrady.com/wiki/Nuclear_Waste){:target="_blank"} in order to build the [Mekasuit](https://wiki.aidancbrady.com/wiki/Mekasuit){:target="_blank"}.
+- [Fissile Fuel](https://wiki.aidancbrady.com/wiki/Fissile_Fuel){:target="_blank"} is a [complicated process](https://youtu.be/9HjghquMpfA?si=VdZH6u4F8ScBhtIo&t=581){:target="_blank"} just on its own and we are not even at building the [Fission Reactor](https://wiki.aidancbrady.com/wiki/Fission_Reactor){:target="_blank"} and [Turbine](https://wiki.aidancbrady.com/wiki/Industrial_Turbine){:target="_blank"} yet.
+- The [Solar Neutron Activator](https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} is slow, requires being outside and is effected by day/night cycles as well as the biome its placed in.
 
 ### Resolution:
-- I wanted to experiment with resolving this technically as well as design wise creating a fair and balanced alternative path inline with the default recipe.
-- Assumption that [nuclear waste is an analog for plutonium](https://www.orano.group/en/unpacking-nuclear/all-about-plutonium#:~:text=The%20answer%20is%20simple%3A%20it,239%20transforms%20into%20plutonium%2D239.){:target="_blank"}
-- Assumption that Blutonium is an analog for plutonium
-- Uses exclusively machines from [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"}
-- Assumes Blutonium Ingots and Nuclear Waste are both analogs for plutonium
-- Converts Big Reactors / Extreme Reactors Blutonium to [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} Plutonium at a 1:1 ratio
-- Substitutes Solar Neutron Activator step for Isotropic Centrifuge to seperate Plutonium to Polonium at a 10:1 ratio matching other recipes using the centrifuge and solar neutron activator.
+- Assumptions made:
+	- [Nuclear Waste](https://wiki.aidancbrady.com/wiki/Nuclear_Waste){:target="_blank"} [is an analog for plutonium](https://www.orano.group/en/unpacking-nuclear/all-about-plutonium#:~:text=The%20answer%20is%20simple%3A%20it,239%20transforms%20into%20plutonium%2D239.){:target="_blank"}
+	- [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"} is an analog for plutonium based on name and processing steps to acquire.
+- Identified 2 equivalent materials from each mod and converted at a 1:1 ratio using a [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} [Chemical Oxidizer](https://wiki.aidancbrady.com/wiki/Chemical_Oxidizer){:target="_blank"} in order to cut over to [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} as soon as possible as well as a device that supported converting a solid item to a gas.
+- Added an additional processing step of using the [Isotropic Centrifuge](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"} to replace the (https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} for consistent production and freedom of placement using a 10:1 ration matching existing recipes for both the (https://wiki.aidancbrady.com/wiki/Solar_Neutron_Activator){:target="_blank"} and [Isotropic Centrifuge](https://wiki.aidancbrady.com/wiki/Isotopic_Centrifuge){:target="_blank"}. Thematically a centrifuge felt like a fitting machine to use for this processing step.
+
 
 ### Retrospective:
+- I wanted to experiment with resolving this technically as well as designing a fair and balanced alternative path inline with the default recipe.
 - As a long time player of Minecraft it was nice to work on something that effected the game itself
 - Now that I know how to write recipes I can make future alternate recipes as needed
 - I might consider writing a small mod in the future
