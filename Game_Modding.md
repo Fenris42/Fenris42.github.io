@@ -84,33 +84,32 @@ An alternate recipe path for converting [Big Reactors](https://www.curseforge.co
  
 Recipe is written in a combination of Javascript and JSON, injected using the mod [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs){:target="_blank"}.
 
-### Default Mekanism Recipe Path
+### Default Mekanism Recipe Path:
 
-#### Fission Reactor
-Fissile Fuel -> Nuclear Waste
+Mekanism Fission Reactor: Fissile Fuel -> Nuclear Waste
 
-#### Solar Neutron Activator
-Nuclear Waste -> Polonium Gas
+Mekanism Solar Neutron Activator: Nuclear Waste -> Polonium Gas
 
-### Alternate Big Reactors / Extreme Reactors Recipe Path
-#### Reactor
-Yellorium Ingot -> Cyanite Ingot
+### Alternate Big Reactors / Extreme Reactors Recipe Path:
 
-#### Reprocessor
-Cyanite Ingot -> Blutonium Ingot
+Big Reactors / Extreme Reactors Reactor: Yellorium Ingot -> Cyanite Ingot
 
-#### Mekanism Chemical Oxidizer
-Blutonium Ingot -> Plutonium Gas
+Big Reactors / Extreme Reactors Reprocessor: Cyanite Ingot -> Blutonium Ingot
 
-#### Mekanism Isotropic Centrifuge
-Plutonium Gas -> Polonium Gas
+Mekanism Chemical Oxidizer: Blutonium Ingot -> Plutonium Gas
+
+Mekanism Isotropic Centrifuge: Plutonium Gas -> Polonium Gas
 
 ### Design Choices:
+
+### Issues:
 - Default [Mekasuit](https://wiki.aidancbrady.com/wiki/Mekasuit){:target="_blank"} recipe assumes use of the [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} [Fission Reactor](https://wiki.aidancbrady.com/wiki/Fission_Reactor){:target="_blank"} for power generation.
 	- In modpacks there are different method of generating power from a variety of mods, not all players will choose this method especially due to risks with radiation and meltdowns.
-	- I like many others use [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors){:target="_blank"} for power generation leaving me in a situation where I have to build a completely separate and accident prone reactor just to generate some nuclear waste in order to build the Mekasuit.
+	- I like many others use [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors){:target="_blank"} for power generation leaving me in a situation where I have to build a completely separate, complicated and accident prone reactor just to generate some nuclear waste in order to build the Mekasuit.
 - Fissile Fuel is [a very complicated process](https://youtu.be/9HjghquMpfA?si=VdZH6u4F8ScBhtIo&t=581){:target="_blank"} just on its own and we are not even at creating the reactor and turbine yet
 - The Solar Neutron Activator is slow, requires being outside and is effected by day/night cycles as well as the biome its placed in
+
+### Resolution:
 - I wanted to experiment with resolving this technically as well as design wise creating a fair and balanced alternative path inline with the default recipe.
 - Assumption that [nuclear waste is an analog for plutonium](https://www.orano.group/en/unpacking-nuclear/all-about-plutonium#:~:text=The%20answer%20is%20simple%3A%20it,239%20transforms%20into%20plutonium%2D239.){:target="_blank"}
 - Assumption that Blutonium is an analog for plutonium
