@@ -70,6 +70,66 @@ CC: Tweaked adds basic [computers](https://www.computercraft.info/wiki/Computer)
 
 ---
 
+## Mekanism Polonium Alternate Recipe
+
+![Polonium Recipe](assets/images/screenshots/Polonium Recipe.png)
+
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Kubejs_Polonium_Recipe){:target="_blank"}
+[Github Repository](https://github.com/Fenris42/Kubejs_Polonium_Recipe){:target="_blank"}
+
+### Description:
+
+An alternate recipe path for converting [Big Reactors](https://www.curseforge.com/minecraft/mc-mods/big-reactors){:target="_blank"}
+ / [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors){:target="_blank"} [Blutonium Ingots](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"} to [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} [Polonium Gas](https://wiki.aidancbrady.com/wiki/Polonium){:target="_blank"}.
+ 
+Recipe is written in a combination of Javascript and JSON, injected using [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs){:target="_blank"}
+
+### Design Choices:
+- Default [Mekasuit](https://wiki.aidancbrady.com/wiki/Mekasuit){:target="_blank"} recipe assumes use of the [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} [Fission Reactor](https://wiki.aidancbrady.com/wiki/Fission_Reactor){:target="_blank"} for power generation.
+	- In modpacks there are a variety of methods for generating power, not all players will choose this method especially due to risks with radiation and meltdowns.
+	- I like many others use [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors){:target="_blank"} for power generation leaving me in a situation where I have to build a completely separate and accident prone reactor just to generate some nuclear waste in order to build the Mekasuit.
+
+#### Default Mekanism Recipe Path
+Fission Reactor
+
+Fissile Fuel -> Nuclear Waste
+
+Solar Neutron Activator
+
+Nuclear Waste -> Polonium Gas
+
+- Fissile Fuel is [a very complicated process](https://youtu.be/9HjghquMpfA?si=VdZH6u4F8ScBhtIo&t=581){:target="_blank"} just on its own and we are not even at creating the reactor and turbine yet
+- The Solar Neutron Activator is slow, requires being outside and is effected by day/night cycles as well as the biome its placed in
+
+#### Alternate Big Reactors / Extreme Reactors Recipe Path
+Reactor
+
+Yellorium Ingot -> Cyanite Ingot
+
+Reprocessor
+
+Cyanite Ingot -> Blutonium Ingot
+
+Mekanism Chemical Oxidizer
+
+Blutonium Ingot -> Plutonium Gas
+
+Mekanism Isotropic Centrifuge
+
+Plutonium Gas -> Polonium Gas
+
+- Uses exclusively machines from Mekanism
+- Assumes Blutonium Ingots and Nuclear Waste are both analogs for plutonium
+- Converts Big Reactors / Extreme Reactors Blutonium to Mekanism Plutonium at a 1:1 ratio
+- Substitutes Solar Neutron Activator step for Isotropic Centrifuge to seperate Plutonium to Polonium at a 10:1 ratio matching other recipes using the centrifuge and solar neutron activator.
+
+### Retrospective:
+- As a long time player of Minecraft it was nice to work on something that effected the game itself
+- Now that I know how to write recipes I can make future alternate recipes as needed
+- I might consider writing a small mod in the future
+
+---
+
 ![Timberborn](assets/images/screenshots/timberborn.jpg)
 
 [![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://store.steampowered.com/app/1062090/Timberborn/){:target="_blank"}
