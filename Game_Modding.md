@@ -84,21 +84,27 @@ An alternate recipe path for converting [Big Reactors](https://www.curseforge.co
  
 Recipe is written in a combination of Javascript and JSON, injected using the mod [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs){:target="_blank"}.
 
-### Default Mekanism (M) Recipe Path:
+### Default Mekanism (Mek) Recipe Path:
 
 **(Mek) Fission Reactor:** (Mek) Fissile Fuel -> (Mek) Nuclear Waste
+- Fuel is consumed in the reactor and waste product produced
 
 **(Mek) Solar Neutron Activator:** (Mek) Nuclear Waste -> (Mek) Polonium Gas
+- Final processing step
 
 ### Alternate Big Reactors / Extreme Reactors (BER) Recipe Path:
 
 **(BER) Reactor:** (BER) Yellorium Ingot -> (BER) Cyanite Ingot
+- Fuel is consumed in the reactor and waste product produced
 
 **(BER) Reprocessor:** (BER) Cyanite Ingot -> (BER) Blutonium Ingot
+- Reactor waste product is processed to equivalent of plutonium 
 
 **(Mek) Chemical Oxidizer:** (BER) Blutonium Ingot -> (Mek) Plutonium Gas
+- Conversion from Big Reactors / Extreme Reactors occurs at a 1:1 scale using Mekanisms machines
 
 **(Mek) Isotropic Centrifuge:** (Mek) Plutonium Gas -> (Mek) Polonium Gas
+- Final processing step to replace Solar Neutron Activator at a 10:1 ratio matching other recipes for both the Solar Neutron Activator and Isotropic Centrifuge
 
 ### Design Choices:
 
