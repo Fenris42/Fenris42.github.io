@@ -25,7 +25,7 @@ A game where the player collects resources and crafts a variety of items, struct
 
 A script for Minecraft mod [CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked){:target="_blank"} a fork  of the popular mod [ComputerCraft](https://www.curseforge.com/minecraft/mc-mods/computercraft){:target="_blank"}.
 
-CC: Tweaked adds basic [computers](https://www.computercraft.info/wiki/Computer){:target="_blank"} for programming, as well as [turtles](https://www.computercraft.info/wiki/Turtle){:target="_blank"} which are programmable robots, to the game. Scripts written in Lua, utilizing the [CC: Tweaked API](https://tweaked.cc/module/turtle.html){:target="_blank"} can perform a wide variety of tasks. In this case, mining.
+[CC: Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked){:target="_blank"} adds basic [computers](https://www.computercraft.info/wiki/Computer){:target="_blank"} for programming, as well as [turtles](https://www.computercraft.info/wiki/Turtle){:target="_blank"} which are programmable robots, to the game. Scripts written in Lua, utilizing the [CC: Tweaked API](https://tweaked.cc/module/turtle.html){:target="_blank"} can perform a wide variety of tasks. In this case, mining.
 
 ### Features:
 - Mines in a 3x3 block pattern.
