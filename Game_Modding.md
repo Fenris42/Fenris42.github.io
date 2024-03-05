@@ -70,7 +70,7 @@ CC: Tweaked adds basic [computers](https://www.computercraft.info/wiki/Computer)
 
 ---
 
-## Mekanism Polonium Alternate Recipe
+## [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} Polonium Alternate Recipe
 
 ![Polonium Recipe](assets/images/screenshots/Polonium Recipe.png)
 
@@ -84,7 +84,7 @@ An alternate recipe path for converting [Big Reactors](https://www.curseforge.co
  
 Recipe is written in a combination of Javascript and JSON, injected using the mod [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs){:target="_blank"}.
 
-### Default Mekanism (Mek) Recipe Path:
+### Default [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} (Mek) Recipe Path:
 
 **(Mek) Fission Reactor:** (Mek) Fissile Fuel -> (Mek) Nuclear Waste
 - Fuel is consumed in the reactor and waste product produced
@@ -101,7 +101,7 @@ Recipe is written in a combination of Javascript and JSON, injected using the mo
 - Reactor waste product is processed to equivalent of plutonium 
 
 **(Mek) Chemical Oxidizer:** (BER) Blutonium Ingot -> (Mek) Plutonium Gas
-- Conversion from Big Reactors / Extreme Reactors occurs at a 1:1 scale using Mekanisms machines
+- Conversion from Big Reactors / Extreme Reactors occurs at a 1:1 scale using [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"}s machines
 
 **(Mek) Isotropic Centrifuge:** (Mek) Plutonium Gas -> (Mek) Polonium Gas
 - Final processing step to replace Solar Neutron Activator at a 10:1 ratio matching other recipes for both the Solar Neutron Activator and Isotropic Centrifuge
@@ -112,16 +112,16 @@ Recipe is written in a combination of Javascript and JSON, injected using the mo
 - Default [Mekasuit](https://wiki.aidancbrady.com/wiki/Mekasuit){:target="_blank"} recipe assumes use of the [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} [Fission Reactor](https://wiki.aidancbrady.com/wiki/Fission_Reactor){:target="_blank"} for power generation.
 	- In modpacks there are different method of generating power from a variety of mods, not all players will choose this method especially due to risks with radiation and meltdowns.
 	- I like many others use [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors){:target="_blank"} for power generation leaving me in a situation where I have to build a completely separate, complicated and accident prone reactor just to generate some nuclear waste in order to build the Mekasuit.
-- Fissile Fuel is [a very complicated process](https://youtu.be/9HjghquMpfA?si=VdZH6u4F8ScBhtIo&t=581){:target="_blank"} just on its own and we are not even at creating the reactor and turbine yet
+- Fissile Fuel is a [complicated process](https://youtu.be/9HjghquMpfA?si=VdZH6u4F8ScBhtIo&t=581){:target="_blank"} just on its own and we are not even at creating the reactor and turbine yet
 - The Solar Neutron Activator is slow, requires being outside and is effected by day/night cycles as well as the biome its placed in
 
 ### Resolution:
 - I wanted to experiment with resolving this technically as well as design wise creating a fair and balanced alternative path inline with the default recipe.
 - Assumption that [nuclear waste is an analog for plutonium](https://www.orano.group/en/unpacking-nuclear/all-about-plutonium#:~:text=The%20answer%20is%20simple%3A%20it,239%20transforms%20into%20plutonium%2D239.){:target="_blank"}
 - Assumption that Blutonium is an analog for plutonium
-- Uses exclusively machines from Mekanism
+- Uses exclusively machines from [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"}
 - Assumes Blutonium Ingots and Nuclear Waste are both analogs for plutonium
-- Converts Big Reactors / Extreme Reactors Blutonium to Mekanism Plutonium at a 1:1 ratio
+- Converts Big Reactors / Extreme Reactors Blutonium to [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism){:target="_blank"} Plutonium at a 1:1 ratio
 - Substitutes Solar Neutron Activator step for Isotropic Centrifuge to seperate Plutonium to Polonium at a 10:1 ratio matching other recipes using the centrifuge and solar neutron activator.
 
 ### Retrospective:
