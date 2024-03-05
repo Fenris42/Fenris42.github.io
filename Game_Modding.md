@@ -87,13 +87,17 @@ Recipe is written in a combination of Javascript and JSON, injected using the mo
 ### Default Mekanism (M) Recipe Path:
 
 **(Mek) Fission Reactor:** (Mek) Fissile Fuel -> (Mek) Nuclear Waste
+
 **(Mek) Solar Neutron Activator:** (Mek) Nuclear Waste -> (Mek) Polonium Gas
 
 ### Alternate Big Reactors / Extreme Reactors (BER) Recipe Path:
 
 **(BER) Reactor:** (BER) Yellorium Ingot -> (BER) Cyanite Ingot
+
 **(BER) Reprocessor:** (BER) Cyanite Ingot -> (BER) Blutonium Ingot
+
 **(Mek) Chemical Oxidizer:** (BER) Blutonium Ingot -> (Mek) Plutonium Gas
+
 **(Mek) Isotropic Centrifuge:** (Mek) Plutonium Gas -> (Mek) Polonium Gas
 
 ### Design Choices:
