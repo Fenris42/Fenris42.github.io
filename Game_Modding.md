@@ -98,7 +98,7 @@ Recipe is written in a combination of Javascript and JSON, injected using the mo
 - Fuel is consumed in the reactor and waste product produced.
 
 **(BER) [Reprocessor:](https://ftbwiki.org/Cyanite_Reprocessor){:target="_blank"}** (BER) [Cyanite Ingot](https://ftbwiki.org/Cyanite_Ingot){:target="_blank"} -> (BER) [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"}
-- Reactor waste product is processed to an analog of plutonium .
+- Reactor waste product is processed to an analog of plutonium.
 
 **(Mek) [Chemical Oxidizer:](https://wiki.aidancbrady.com/wiki/Chemical_Oxidizer){:target="_blank"}** (BER) [Blutonium Ingot](https://ftbwiki.org/Blutonium_Ingot){:target="_blank"} -> (Mek) [Plutonium Gas](https://wiki.aidancbrady.com/wiki/Plutonium){:target="_blank"}
 - Conversion from [Big Reactors](https://www.curseforge.com/minecraft/mc-mods/big-reactors){:target="_blank"}
@@ -126,9 +126,9 @@ Recipe is written in a combination of Javascript and JSON, injected using the mo
 
 ### Retrospective:
 - I wanted to experiment with resolving this technically as well as designing a fair and balanced alternative path inline with the default recipe.
-- As a long time player of Minecraft it was nice to work on something that effected the game itself
-- Now that I know how to write recipes I can make future alternate recipes as needed
-- I might consider writing a small mod in the future
+- As a long time player of Minecraft it was nice to work on something that effected the game itself.
+- Now that I know how to write recipes I can make future alternate recipes as needed.
+- I might consider writing a small mod in the future.
 
 ---
 
