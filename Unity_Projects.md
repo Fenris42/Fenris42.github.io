@@ -15,8 +15,8 @@ title: Unity Projects
 
 ![RockHopper](assets/images/screenshots/project_rock_hopper.png)
 
-![Download](assets/images/icons/download.png){:class='icon icon-download'}
-Private Github Repository
+[![Download](assets/images/icons/download.png){:class='icon icon-download'}](https://github.com/Fenris42/Project_Rock_Hopper){:target="_blank"}
+[Github Repository](https://github.com/Fenris42/Project_Rock_Hopper){:target="_blank"}
 
 ### Status: 
 - Active
