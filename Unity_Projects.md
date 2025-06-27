@@ -188,7 +188,7 @@ My first independent project. I gave myself an introduction to game development 
 
 ![Check](assets/images/icons/check.png){:class="icon"} Prove understanding of skills learned by adding additional functionality to game after tutorial
 
-- Continued development after tutorial by adding a 3 life system
+![Check](assets/images/icons/check.png){:class="icon"} Continue development after tutorial by adding a 3 life system
 
 ### Retrospective:
 
