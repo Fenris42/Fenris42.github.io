@@ -13,7 +13,7 @@ layout: default
  public class About_Me
  {
    public string Name        = "Maddy Todd";
-   public string[] Pronouns = {"She", "They"};
+   public string[] Pronouns = {"She", "Her"};
    public string Location    = "Vancouver, BC, Canada";
    public bool IsProgrammer  = true;
    public bool IsWebDesigner = false;
